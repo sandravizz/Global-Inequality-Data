@@ -1,0 +1,21 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+a, a:link, a:visited, a:active {
+  color: #17a554;
+  border-bottom: 1px dotted rgba(23, 165, 84, .5);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #17a554;
+}
+
+#wrapper {
+	padding: 50px 25px;
+	width: 2000px;
+}
