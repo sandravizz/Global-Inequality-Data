@@ -1,118 +1,36 @@
 
-async function PT() {
+async function fetchAndTransform(name) {
+  const data = await aq.load(`../data/countries/WID_data_${name}.csv`, { using: aq.fromCSV });
 
-  const PT = await aq.load("./data/countries/WID_data_PT.csv", { using: aq.fromCSV });
-
-    PT.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
+  data.derive({
+    unit: (d) => op.slice(d.variable, 0, 1)
+  })
     .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .print(5);
+  // .print(5);
 
-  let PT_g = PT.derive({
-        unit: (d) => op.slice(d.variable, 0, 1)
-      })
-      .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-      .objects();
-    console.log(PT_g);
-
-}
-
-PT();
-
-async function DE() {
-
-  const DE = await aq.load("./data/countries/WID_data_DE.csv", { using: aq.fromCSV });
-
-    DE.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.variable === "ghwealj992")
-    .print(5);
-
-  let DE_g = DE.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.variable === "ghwealj992")
+  let data_g = data.derive({
+    unit: (d) => op.slice(d.variable, 0, 1)
+  })
+    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
     .objects();
-   console.log(DE_g);
 
+  return data_g;
 }
 
-DE();
 
 async function main() {
 
-  const PT = await aq.load("./data/countries/WID_data_PT.csv", { using: aq.fromCSV });
-  const DE = await aq.load("./data/countries/WID_data_DE.csv", { using: aq.fromCSV });
-  const US = await aq.load("./data/countries/WID_data_US.csv", { using: aq.fromCSV });  
-  const GB = await aq.load("./data/countries/WID_data_GB.csv", { using: aq.fromCSV });
-  const SE = await aq.load("./data/countries/WID_data_SE.csv", { using: aq.fromCSV });  
-  
-    PT.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .print(5);
+  // list of countries to fetch data from
+  const countryNames = ["PT", "DE", "US", "GB", "SE", "AE"]
 
-    DE.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.variable === "ghwealj992")
-    .print(5);
+  // fetch and transform data -> return promise
+  const promises = countryNames.map(d => fetchAndTransform(d))
 
-    US.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .print(5);
+  // wait for all promises to have fetched the data and transformed it
+  const result = await Promise.all(promises)
 
-    GB.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .print(5);
-
-    SE.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .print(5);
-
-  let PT_g = PT.derive({
-        unit: (d) => op.slice(d.variable, 0, 1)
-      })
-      .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-      .objects();
-    console.log(PT_g);
-
-  let DE_g = DE.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.variable === "ghwealj992")
-    .objects();
-   console.log(DE_g);
-
-  let US_g = US.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .objects();
-   console.log(US_g);
-
-  let GB_g = GB.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .objects();
-    console.log(GB_g);
-
-  let SE_g = SE.derive({
-      unit: (d) => op.slice(d.variable, 0, 1)
-    })
-    .filter((d) => d.unit === "g" && d.year > "1994" && d.variable === "ghwealj992")
-    .objects();
-    console.log(SE_g);
+  // Flatten the array of arrays
+  console.log(result.flatMap(d => d))
 
 }
 
