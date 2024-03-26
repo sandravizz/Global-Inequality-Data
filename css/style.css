@@ -62,7 +62,7 @@ body {
 }
 
 .title {
-	font-size: 10px;
+	font-size: 25px;
 	margin-left: 20px;
 	text-align: left;
 }
@@ -149,4 +149,30 @@ a:focus {
 	stroke-width: 0.5;
 	stroke-opacity: 1;
 	stroke: white;
+}
+
+/*--------------------------------------*/
+/* Button stylings */
+/*--------------------------------------*/
+
+#filters {
+	display: left;
+	justify-content: space-evenly;
+	margin-left: 20px;
+}
+
+#filters button {
+	padding: 5px;
+	border: 0;
+	cursor: pointer;
+	color: white;
+	line-height: 0.9rem;
+	border-radius: 20px;
+	font-size: 10px;
+	font-weight: 500;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+#filters button:hover {
+	border-radius: 60px;
 }

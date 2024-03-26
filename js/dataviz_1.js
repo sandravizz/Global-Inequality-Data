@@ -2,9 +2,9 @@
 //  Margin and canvas
 // --------------------------------------
 
-const margin = {top: 50, right: 50, bottom: 50, left: 50};
+const margin = {top: 50, right: 20, bottom: 50, left: 20};
 const width = 1200;
-const height = 600;
+const height = 650;
 const innerwidth = width - margin.left - margin.right;
 const innerheight = height - margin.top - margin.bottom;
 
@@ -60,7 +60,7 @@ let x = d3.scaleLinear()
 
 let c = d3.scaleOrdinal()
     .domain(["Asia", "Europe", "Africa", "Americas", "Oceania"])
-    .range(["white", "white", "white", "white", "white"]);
+    .range(["#F2ECCE", "#3DBCD9", "#F2AE2E", "#F2785C", "#D93240"]);
 
 // --------------------------------------
 //  Axes 
@@ -96,9 +96,31 @@ innerChart
     .attr("class", "rect") 
     .attr("x", (d) => x(d.Gini))
     .attr("y", (d) => y(d.Year))
-    .attr("width", 2)
+    .attr("width", 1.8)
     .attr("height", 15)
-    .attr("opacity", 0.6)  
+    .attr("opacity", 1)  
     .attr("fill",  (d) => c(d.Region));
+
+// --------------------------------------
+//  Buttons 
+// --------------------------------------
+
+const filters = [
+  { id: "Asia", label: "Asia", isActive: false,  backgroundcolor: "#F2ECCE" },
+  { id: "Europe", label: "Europe", isActive: false, backgroundcolor: "#3DBCD9" },
+  { id: "Africa", label: "Africa", isActive: false, backgroundcolor: "#F2AE2E" },
+  { id: "Americas", label: "Americas", isActive: false, backgroundcolor: "#F2785C" },
+  { id: "Oceania", label: "Oceania", isActive: false, backgroundcolor: "#D93240" }
+  ];
+
+  d3.select("#filters")
+      .selectAll(".filter")
+      .data(filters)
+      .join("button")
+      .attr("id", d => d.id)
+      .text(d => d.label)
+      .style("color", "#00161f")
+      .style("background-color", d => d.backgroundcolor);
+
 
   });
