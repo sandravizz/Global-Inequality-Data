@@ -2,10 +2,6 @@
 /* Global stylings */
 /*--------------------------------------*/
 
-html {
-	font-size: 100%;
-}
-
 body {
 	margin: 0;
 	--color-nav: #fff;
@@ -65,13 +61,10 @@ body {
 	--step-5: clamp(1.5556rem, 0.9101rem + 3.2277vw, 3.815rem);
 }
 
-/*--------------------------------------*/
-/* Page stylings */
-/*--------------------------------------*/
-
-.demo-5 {
-	--font-trail-height: 1;
-	--font-trail-family: "Syncopate", sans-serif;
+.title {
+	font-size: 15px;
+	margin-left: 20px;
+	text-align: left;
 }
 
 /*--------------------------------------*/

@@ -2,9 +2,9 @@
 //  Margin and canvas
 // --------------------------------------
 
-const margin = {top: 150, right: 50, bottom: 50, left:50};
+const margin = {top: 10, right: 50, bottom: 50, left:50};
 const width = 1200;
-const height = 600;
+const height = 550;
 const innerwidth = width - margin.left - margin.right;
 const innerheight = height - margin.top - margin.bottom;
 
@@ -24,72 +24,53 @@ let parseDate = d3.timeParse("%Y");
 let formatDate = d3.timeFormat("%Y");
 
 // --------------------------------------
+//  Data loading 
+// --------------------------------------
+
+const data = d3.csv("./data/gini_all.csv", d => {
+
+  return {
+      Gini: +d.value,
+      Country: d.country,
+      Region: d.region,
+      Region2: d.region2,
+      Year: parseDate(d.year)
+  };
+
+}).then(data => {
+
+  // console.log(data);
+  // console.log(data.map(d => d.Region));
+  // console.log(d3.flatGroup(data, (d => d.Region)));
+
+// --------------------------------------
 //  Scales
 // --------------------------------------
 
 let y = d3.scaleTime()
-    .domain(d3.extent(data_total, d => (d.year)))
+    .domain(d3.extent(data, d => (d.Year)))
     .range([innerheight, 0]);
 
 let x = d3.scaleLinear()
-    .domain([0, d3.max(data_total, d => d.value)])
+    .domain([0.3, d3.max(data, d => d.Gini)])
     .range([0, innerwidth]);
 
 // console.log(data_total.map(d => d.country));
 
-// let c = d3.scaleOrdinal()
-//     .domain(["AD", "AE", "AF", "AG", "AI", "AT","PT", "SE", "US", "GB", "DE", "BE", "ZW", "CH", "CG"])
-//     .range(["white", "white", "white", "white", "white", "white", "white", "white", "red", "white", "white"]);
-
-// let r2 = d3.scaleSqrt()
-//     .domain(d3.extent(data_total, d => d.value))
-//     .range([0, 23]);
-
-// let r1 = d3.scaleSqrt()
-//     .domain([0, d3.max(data_total, d => d.value)])
-//     .range([0, 8]);
-
-//Line
-// innerChart
-//     .selectAll(".line")
-//     .data(data_total)
-//     .join("line")
-//     .attr("class", "line") 
-//     .attr("x1", (d) => x(d.year))
-//     .attr("x2", (d) => x(d.year))
-//     .attr("y1", innerheight)
-//     .attr("y2",  innerheight)
-//     .attr("stroke", "red")
-//     .attr("stroke-width", 5)
-//     .attr("opacity", 1)
-//     .transition()
-//     .delay((d) => 500 + x(d.year) * 3.6)
-//     .duration(1000)
-//     .attr("y2", (d) => y(d.value) + r1(d.value));
+let c = d3.scaleOrdinal()
+    .domain(["Asia", "Europe", "Africa", "Americas", "Oceania"])
+    .range(["white", "white", "white", "white", "white"]);
 
 innerChart
-    .selectAll(".circle")
-    .data(data_total)
-    .join("circle")
-    .attr("class", "circle") 
-    .attr("cx", (d) => x(d.value))
-    .attr("cy", (d) => y(d.year))
-    .attr("r", 5)
-    .attr("opacity", 0.5)  
-    .attr("fill", "white");
+    .selectAll(".rect")
+    .data(data)
+    .join("rect")
+    .attr("class", "rect") 
+    .attr("x", (d) => x(d.Gini))
+    .attr("y", (d) => y(d.Year))
+    .attr("width", 2)
+    .attr("height", 15)
+    .attr("opacity", 0.6)  
+    .attr("fill",  (d) => c(d.Region));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  });

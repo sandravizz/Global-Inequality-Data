@@ -13,7 +13,8 @@ async function loading() {
   .objects();
   console.log(gini_all);
 
-  
+  const string2 = d3.csvFormat(gini_all, ["unit", "year", "country", "variable", "value", "shortname", "titlename", "region", "region2"]);
+  console.log(string2);
 
 };
 
