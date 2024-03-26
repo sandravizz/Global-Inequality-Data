@@ -2,9 +2,9 @@
 //  Margin and canvas
 // --------------------------------------
 
-const margin = {top: 10, right: 50, bottom: 50, left:50};
+const margin = {top: 50, right: 50, bottom: 50, left: 50};
 const width = 1200;
-const height = 550;
+const height = 600;
 const innerwidth = width - margin.left - margin.right;
 const innerheight = height - margin.top - margin.bottom;
 
@@ -22,12 +22,13 @@ const innerChart = svg
 
 let parseDate = d3.timeParse("%Y");
 let formatDate = d3.timeFormat("%Y");
+let format = d3.format(".0");
 
 // --------------------------------------
 //  Data loading 
 // --------------------------------------
 
-const data = d3.csv("./data/gini_all.csv", d => {
+const data = d3.csv("/data/gini_all.csv", d => {
 
   return {
       Gini: +d.value,
@@ -49,10 +50,10 @@ const data = d3.csv("./data/gini_all.csv", d => {
 
 let y = d3.scaleTime()
     .domain(d3.extent(data, d => (d.Year)))
-    .range([innerheight, 0]);
+    .range([0, innerheight]);
 
 let x = d3.scaleLinear()
-    .domain([0.3, d3.max(data, d => d.Gini)])
+    .domain([0.4, d3.max(data, d => d.Gini)])
     .range([0, innerwidth]);
 
 // console.log(data_total.map(d => d.country));
@@ -60,6 +61,33 @@ let x = d3.scaleLinear()
 let c = d3.scaleOrdinal()
     .domain(["Asia", "Europe", "Africa", "Americas", "Oceania"])
     .range(["white", "white", "white", "white", "white"]);
+
+// --------------------------------------
+//  Axes 
+// --------------------------------------
+
+innerChart.append("g")
+    .attr("class", "x-axis")
+    .attr("transform", `translate(0, ${innerheight})`)
+    .call(d3.axisBottom(x)
+        	.tickValues([0.6, 0.8, 1])
+     		  .tickSize(0)
+           .tickFormat(format)
+          .tickPadding(25));
+
+innerChart
+    .append("g")
+    .attr("class", "y-axis")
+    .attr("transform", `translate(0, 10)`)
+    .call(d3.axisRight(y)
+          .tickSize(0)
+          .tickFormat(formatDate)
+          .tickPadding(150)
+          .tickValues([parseDate(1995), parseDate(2000), parseDate(2005), parseDate(2010), parseDate(2015), parseDate(2020), parseDate(2022)])); 
+
+// --------------------------------------
+//  Data drawing
+// --------------------------------------
 
 innerChart
     .selectAll(".rect")

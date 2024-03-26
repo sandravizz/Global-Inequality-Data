@@ -62,7 +62,7 @@ body {
 }
 
 .title {
-	font-size: 15px;
+	font-size: 10px;
 	margin-left: 20px;
 	text-align: left;
 }
@@ -118,4 +118,35 @@ a {
 a:hover,
 a:focus {
 	color: var(--color-link-hover);
+}
+
+/*--------------------------------------*/
+/* Axes stylings */
+/*--------------------------------------*/
+
+.x-axis,
+.y-axis text {
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 8px;
+	opacity: 0.5;
+}
+
+.x-axis,
+.y-axis path {
+	stroke-width: 0;
+	stroke-opacity: 1;
+	stroke: #8ff798;
+}
+
+.x-axis line {
+	fill: none;
+	stroke-width: 0.5;
+	stroke-opacity: 1;
+	stroke: white;
+}
+
+.y-axis line {
+	stroke-width: 0.5;
+	stroke-opacity: 1;
+	stroke: white;
 }
