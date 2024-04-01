@@ -43,6 +43,8 @@ const data = d3.csv("/data/gini_all.csv", d => {
   // console.log(data);
   // console.log(data.map(d => d.Region));
   // console.log(d3.flatGroup(data, (d => d.Region)));
+  console.log(d3.flatGroup(data, (d => d.Region2)));
+  console.log(d3.flatGroup(data, (d => d.Country)));
 
 // --------------------------------------
 //  Scales
@@ -96,8 +98,8 @@ innerChart
     .attr("class", "rect") 
     .attr("x", (d) => x(d.Gini))
     .attr("y", (d) => y(d.Year))
-    .attr("width", 1.8)
-    .attr("height", 15)
+    .attr("width", 0.9)
+    .attr("height", 16)
     .attr("opacity", 1)  
     .attr("fill",  (d) => c(d.Region));
 

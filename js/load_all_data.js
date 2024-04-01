@@ -48,7 +48,7 @@ async function main() {
   let data_total = result.flatMap(d => d);
   console.log(data_total);
 
-  // Save in the csv format
+  // Save in the csv format, which can be copied from the console into a new file
   const string = d3.csvFormat(data_total, ["unit", "year", "country", "variable", "value"]);
   console.log(string);
 
