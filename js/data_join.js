@@ -28,9 +28,14 @@ async function loading2() {
     });
   });
 
+  let gini_all_completeyears = Object.values(countriesObject).flatMap(d => Array.from(d));
 
   // Log the final countriesObject with all data, including added missing years
-  console.log(Object.values(countriesObject).flatMap(d => Array.from(d)))
+  console.log(gini_all_completeyears)
+
+  // Save in the csv format, which can be copied from the console into a new file
+  let string = d3.csvFormat(gini_all_completeyears, ["unit", "year", "country", "variable", "value", "region", "region2", "shortname", "titlename"]);
+  console.log(string);
 
   console.log('<--- finsished processing')
 };

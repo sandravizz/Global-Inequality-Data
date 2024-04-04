@@ -2,9 +2,9 @@
 //  Margin and canvas
 // --------------------------------------
 
-const margin = {top: 50, right: 20, bottom: 50, left: 20};
+const margin = {top: 50, right: 200, bottom: 50, left: 20};
 const width = 1200;
-const height = 650;
+const height = 500;
 const innerwidth = width - margin.left - margin.right;
 const innerheight = height - margin.top - margin.bottom;
 
@@ -28,23 +28,33 @@ let format = d3.format(".0");
 //  Data loading 
 // --------------------------------------
 
-const data = d3.csv("/data/gini_all.csv", d => {
+const data = d3.csv("/data/gini_region.csv", d => {
 
   return {
-      Gini: +d.value,
-      Country: d.country,
+      Gini: +d.mean,
       Region: d.region,
-      Region2: d.region2,
       Year: parseDate(d.year)
   };
 
 }).then(data => {
 
-  // console.log(data);
-  // console.log(data.map(d => d.Region));
-  // console.log(d3.flatGroup(data, (d => d.Region)));
-  console.log(d3.flatGroup(data, (d => d.Region2)));
-  console.log(d3.flatGroup(data, (d => d.Country)));
+// const data = d3.csv("/data/gini_all.csv", d => {
+
+//     return {
+//         Gini: +d.value,
+//         Country: d.country,
+//         Region: d.region,
+//         Region2: d.region2,
+//         Year: parseDate(d.year)
+//     };
+  
+//   }).then(data => {
+
+// console.log(data);
+// console.log(data.map(d => d.Region));
+// console.log(d3.flatGroup(data, (d => d.Region)));
+// console.log(d3.flatGroup(data, (d => d.Region2)));
+// console.log(d3.flatGroup(data, (d => d.Country)));
 
 // --------------------------------------
 //  Scales
@@ -55,7 +65,7 @@ let y = d3.scaleTime()
     .range([0, innerheight]);
 
 let x = d3.scaleLinear()
-    .domain([0.4, d3.max(data, d => d.Gini)])
+    .domain([0.65, 0.85])
     .range([0, innerwidth]);
 
 // console.log(data_total.map(d => d.country));
@@ -72,10 +82,10 @@ innerChart.append("g")
     .attr("class", "x-axis")
     .attr("transform", `translate(0, ${innerheight})`)
     .call(d3.axisBottom(x)
-        	.tickValues([0.6, 0.8, 1])
-     		  .tickSize(0)
-           .tickFormat(format)
-          .tickPadding(25));
+         .tickValues([0.7, 0.8, 0.9, 1])
+     	 .tickSize(0)
+         .tickFormat(format)
+         .tickPadding(25));
 
 innerChart
     .append("g")
@@ -98,8 +108,8 @@ innerChart
     .attr("class", "rect") 
     .attr("x", (d) => x(d.Gini))
     .attr("y", (d) => y(d.Year))
-    .attr("width", 0.9)
-    .attr("height", 16)
+    .attr("width", 2)
+    .attr("height", 17)
     .attr("opacity", 1)  
     .attr("fill",  (d) => c(d.Region));
 
