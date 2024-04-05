@@ -43,8 +43,8 @@ async function main() {
   console.log(data_total);
 
   // Save in the csv format, which can be copied from the console into a new file
-  const string = d3.csvFormat(data_total, ["unit", "year", "country", "variable", "value"]);
-  console.log(string);
+  const data_total_csv = d3.csvFormat(data_total, ["unit", "year", "country", "variable", "value"]);
+  console.log(data_total_csv);
 
 }
 
