@@ -1,4 +1,8 @@
 
+// const aq = require('arquero');
+
+
+
 async function fetchAndTransform(name) {
   
   const data = await aq.load(`../data/countries/WID_data_${name}.csv`, { delimiter: ';' }, { using: aq.fromCSV });
