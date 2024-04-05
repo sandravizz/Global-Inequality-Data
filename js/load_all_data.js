@@ -1,17 +1,7 @@
-
-// const aq = require('arquero');
-
-
-
 async function fetchAndTransform(name) {
   
   const data = await aq.load(`../data/countries/WID_data_${name}.csv`, { delimiter: ';' }, { using: aq.fromCSV });
   console.log("fetched", name);
-
-  data
-  .derive({unit: (d) => op.slice(d.variable, 0, 1)})
-  .filter((d) => d.unit === "g" && d.year > "1994" && d.variable ===  "ghwealj992");
-  // .print(5);
 
   let data_g = data
   .derive({unit: (d) => op.slice(d.variable, 0, 1)})

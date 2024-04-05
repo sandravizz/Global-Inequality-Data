@@ -1,7 +1,7 @@
 // async function loading3() {
 //     console.log('---> start processing')
   
-//     const gini_complete = await aq.load(`../data/gini_complete.csv`, { delimiter: ',' }, { using: aq.fromCSV });
+//     const gini_complete = await aq.load(`../data/output_files/gini_complete.csv`, { delimiter: ',' }, { using: aq.fromCSV });
 //     console.log(gini_complete);
 
 //     const gini_region = gini_complete
@@ -22,11 +22,10 @@
 // loading3();
 
 
-
 async function loading4() {
     console.log('---> start processing')
   
-    const gini_region = await aq.load(`../data/gini_region.csv`, { delimiter: ',' }, { using: aq.fromCSV });
+    const gini_region = await aq.load(`../data/output_files/gini_region.csv`, { delimiter: ',' }, { using: aq.fromCSV });
     console.log(gini_region);
 
     const gini_region2 = gini_region

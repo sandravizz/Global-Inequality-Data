@@ -28,7 +28,7 @@ let format = d3.format(".0");
 //  Data loading 
 // --------------------------------------
 
-const data = d3.csv("/data/gini_region.csv", d => {
+const data = d3.csv("/data/output_files/gini_region.csv", d => {
 
   return {
       Gini: +d.mean,

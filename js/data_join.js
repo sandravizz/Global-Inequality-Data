@@ -2,8 +2,8 @@ async function loading2() {
   console.log('---> start processing')
 
   // Load years and Gini data from CSV files
-  const years = await aq.load(`../data/years.csv`, { using: aq.fromCSV });
-  const gini_all = await aq.load(`../data/gini_all.csv`, { delimiter: ',' }, { using: aq.fromCSV });
+  const years = await aq.load(`../data/output_files/years.csv`, { using: aq.fromCSV });
+  const gini_all = await aq.load(`../data/gini_alloutput_files/.csv`, { delimiter: ',' }, { using: aq.fromCSV });
 
   // Extract an array of years from the loaded data
   const yearsArray = years.objects().map(d => d.year);
