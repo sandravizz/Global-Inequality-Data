@@ -4,7 +4,7 @@ Using the [World Inequality Database (WID)](https://wid.world/) for a new data v
 
 ## DATA | arquero.js
 
-We use npm to install arquero.js, please find the documentation [here](https://www.npmjs.com/package/arquero). 
+To install arquero.js, please find the documentation [here](https://www.npmjs.com/package/arquero). 
 
 #### Loading 
 
@@ -21,11 +21,11 @@ Afterwards for running the first visualisations, we need to change the data form
 
 ## EDA | plot.js
 
-We use npm to install plot.js, please find the documentation [here](https://www.npmjs.com/package/@observablehq/plot) 
+To install plot.js, please find the documentation [here](https://www.npmjs.com/package/@observablehq/plot) 
 
 ## VIZ | d3.js 
 
-We use npm to install d3.js, please find the documentation [here](https://www.npmjs.com/package/d3) 
+To install d3.js, please find the documentation [here](https://www.npmjs.com/package/d3) 
 
 #### Timeline scatter plot 
 
