@@ -4,7 +4,7 @@
 
 const margin = {top: 50, right: 200, bottom: 50, left: 20};
 const width = 1200;
-const height = 500;
+const height = 600;
 const innerwidth = width - margin.left - margin.right;
 const innerheight = height - margin.top - margin.bottom;
 
@@ -28,7 +28,7 @@ let format = d3.format(".0");
 //  Data loading 
 // --------------------------------------
 
-const data = d3.csv("/data/output_files/gini_region.csv", d => {
+const data = d3.csv("/data/output_files/income/4.csv", d => {
 
   return {
       Gini: +d.mean,
@@ -65,7 +65,7 @@ let y = d3.scaleTime()
     .range([0, innerheight]);
 
 let x = d3.scaleLinear()
-    .domain([0.65, 0.85])
+    .domain([0.2, 0.65])
     .range([0, innerwidth]);
 
 // console.log(data_total.map(d => d.country));
@@ -82,7 +82,7 @@ innerChart.append("g")
     .attr("class", "x-axis")
     .attr("transform", `translate(0, ${innerheight})`)
     .call(d3.axisBottom(x)
-         .tickValues([0.7, 0.8, 0.9, 1])
+         .tickValues([0.3, 0.4, 0.5, 0.6])
      	 .tickSize(0)
          .tickFormat(format)
          .tickPadding(25));
@@ -95,7 +95,7 @@ innerChart
           .tickSize(0)
           .tickFormat(formatDate)
           .tickPadding(150)
-          .tickValues([parseDate(1995), parseDate(2000), parseDate(2005), parseDate(2010), parseDate(2015), parseDate(2020), parseDate(2022)])); 
+          .tickValues([parseDate(1980), parseDate(1985), parseDate(1990), parseDate(1995), parseDate(2000), parseDate(2005), parseDate(2010), parseDate(2015), parseDate(2020)])); 
 
 // --------------------------------------
 //  Data drawing
