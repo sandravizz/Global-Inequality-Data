@@ -127,8 +127,8 @@ a:focus {
 .x-axis,
 .y-axis text {
 	font-family: 'Montserrat Alternates', sans-serif;
-	font-size: 8px;
-	opacity: 0.5;
+	font-size: 9px;
+	opacity: 1;
 }
 
 .x-axis,
@@ -175,4 +175,8 @@ a:focus {
 
 #filters button:hover {
 	border-radius: 60px;
+}
+
+rect {
+	fill: #F2ECCE;
 }

@@ -881,27 +881,6 @@ year,country,variable,value,region,region2,shortname,titlename
 2019,BS,gdiincj992,0.581443030130642,Americas,Caribbean,Bahamas,the Bahamas
 2020,BS,gdiincj992,0.592704575727763,Americas,Caribbean,Bahamas,the Bahamas
 2021,BS,gdiincj992,0.592704575727763,Americas,Caribbean,Bahamas,the Bahamas
-1981,,,,,,,
-1982,,,,,,,
-1983,,,,,,,
-1984,,,,,,,
-1985,,,,,,,
-1986,,,,,,,
-1987,,,,,,,
-1988,,,,,,,
-1989,,,,,,,
-1995,,,,,,,
-1990,,,,,,,
-1991,,,,,,,
-1992,,,,,,,
-1993,,,,,,,
-1994,,,,,,,
-1995,,,,,,,
-1996,,,,,,,
-1997,,,,,,,
-1998,,,,,,,
-1999,,,,,,,
-2022,,,,,,,
 1980,BT,gdiincj992,0.609181670606091,Asia,South Asia,Bhutan,Bhutan
 1981,BT,gdiincj992,0.608968986637855,Asia,South Asia,Bhutan,Bhutan
 1982,BT,gdiincj992,0.604440120105203,Asia,South Asia,Bhutan,Bhutan
@@ -7308,7 +7287,6 @@ year,country,variable,value,region,region2,shortname,titlename
 2019,VE,gdiincj992,0.604225697379905,Americas,South America,Venezuela,Venezuela
 2020,VE,gdiincj992,0.647781017300402,Americas,South America,Venezuela,Venezuela
 2021,VE,gdiincj992,0.631255649509646,Americas,South America,Venezuela,Venezuela
-2022,,,,,,,
 1980,VN,gdiincj992,0.546691231509659,Asia,South-East Asia,Viet Nam,Viet Nam
 1981,VN,gdiincj992,0.546703050510747,Asia,South-East Asia,Viet Nam,Viet Nam
 1982,VN,gdiincj992,0.546729553902754,Asia,South-East Asia,Viet Nam,Viet Nam
