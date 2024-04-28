@@ -35,15 +35,15 @@ const data = d3.csv("/data/output_files/income/3.csv", d => {
         Country: d.country,
         Region: d.region,
         Region2: d.region2,
-        Year: parseDate(d.year)
+        Year: +d.year
     };
   
   }).then(data => {
 
 data2 = data
-  .filter(d => d.Year > 2021)
+  .filter(d => d.Year < 1981)
   .sort((a,b) => b.Gini - a.Gini)
-  .map(d => d.Gini)
+  .map(d => d.Gini); 
 
 console.log(data2); 
 
