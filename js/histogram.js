@@ -20,8 +20,6 @@ const innerChart = svg
 //  Formating 
 // --------------------------------------
 
-let parseDate = d3.timeParse("%Y");
-let formatDate = d3.timeFormat("%Y");
 let format = d3.format(".0");
 
 // --------------------------------------
@@ -76,16 +74,6 @@ innerChart.append("g")
      	 .tickSize(0)
          .tickFormat(format)
          .tickPadding(25));
-
-innerChart
-    .append("g")
-    .attr("class", "y-axis")
-    .attr("transform", `translate(0, 10)`)
-    .call(d3.axisRight(y)
-          .tickSize(0)
-          .tickFormat(formatDate)
-          .tickPadding(30)
-          .tickValues([parseDate(1980), parseDate(1985), parseDate(1990), parseDate(1995), parseDate(2000), parseDate(2005), parseDate(2010), parseDate(2015), parseDate(2020)])); 
 
 // --------------------------------------
 //  Data drawing
