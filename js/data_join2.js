@@ -2,7 +2,7 @@ async function loading2() {
 
   console.log('---> start processing')
 
-  const years = await aq.load(`../data/output_files/years.csv`, { using: aq.fromCSV });
+  const years = await aq.load(`../data/years.csv`, { using: aq.fromCSV });
   const yearsArray = years.objects().map(d => d.year);
   console.log(yearsArray); 
   
