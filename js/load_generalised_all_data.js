@@ -23,7 +23,7 @@ async function main() {
 
     const countryNames = [
     "AD", "AE", "AF", "AG", "AI", "AL", "AM", "AN", "AO", "AR", "AS", "AT", "AU", "AZ", "AW", 
-    "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BL",  "BM", "BN", "BO", "BQ", "BR", "BS", "BT", "BW",  "BY", "BZ", 
+    "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BL", "BM", "BN", "BO", "BQ", "BR", "BS", "BT", "BW",  "BY", "BZ", 
     "CA", "CD", "CF", "CG", "CH", "CI", "CK", "CL", "CM", "CN", "CO", "CR", "CU", "CV", "CY", "CZ", "CW",
     "DE", "DJ", "DK", "DO", "DM", "DZ", "EC", "EE", "EG", "EH", "ER", "ES", "ET", "FI", "FJ", "FK", "FM", "FO", "FR", 
     "GA", "GB", "GD", "GE", "GG", "GH", "GI", "GL", "GM", "GN", "GQ", "GR", "GT", "GU", "GW", "GY", 
