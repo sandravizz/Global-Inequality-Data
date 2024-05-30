@@ -2,21 +2,34 @@ async function fetchAndTransform(name, variableToGetArray, yearFrom) {
 
     const data = await aq.load(`../data/countries/WID_data_${name}.csv`, { delimiter: ';' }, { using: aq.fromCSV });
 
-    const result = variableToGetArray.reduce((acc, cur, i) => {
+    const result = variableToGetArray.reduce((acc, cur) => {
         
       if (!acc) {  
+
         const filteredTable = data
         .filter(aq.escape((d) => d.year >= yearFrom && d.variable === cur)) 
         .select("country", "value", "year", "variable")
-        // console.log(filteredTable.objects())
+        console.log(filteredTable.objects());
+
+    // const test1 = filteredTable.objects();
+
+    // const test = d3.csvFormat(test1, ["year", "country", "variable", "value"]);
+    // console.log(test);
+
         return filteredTable        
     }
       else {
         const filteredTable = data.filter(aq.escape((d) => d.year >= yearFrom && d.variable === cur))
         .select("country", "value", "year", "variable"); 
-        // console.log(filteredTable.objects())
-        return acc.join_full(filteredTable, [["year"], ["year"]])
+        console.log(filteredTable.objects());
 
+    // const test2 = filteredTable.objects();
+
+    // const test3 = d3.csvFormat(test2, ["year", "country", "variable", "value"]);
+    // console.log(test3);
+
+        return acc.join(filteredTable, [ ['year', 'year']])
+        
     }
 
     }, null);
@@ -27,7 +40,7 @@ async function fetchAndTransform(name, variableToGetArray, yearFrom) {
 
 async function main() {
 
-    const countryNames = [ "AU",  "DE",
+    const countryNames = [ "DE",
     // "AD", "AE", "AF", "AG", "AI", "AL", "AM", "AN", "AO", "AR", "AS", "AT", "AU", "AZ", "AW", 
     // "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BL", "BM", "BN", "BO", "BQ", "BR", "BS", "BT", "BW", "BY", "BZ", 
     // "CA", "CD", "CF", "CG", "CH", "CI", "CK", "CL", "CM", "CN", "CO", "CR", "CS", "CU", "CV", "CY", "CZ", "CW",
@@ -47,15 +60,22 @@ async function main() {
     // "XS", "YE", "YU", "ZA", "ZM", "ZW", "ZZ"
 ];
 
-    const promises = countryNames.map(d => fetchAndTransform(d, ["npopuli999", "xlcyuxi999", "kifghgi999"], "1980"))
+    const promises = countryNames.map(d => fetchAndTransform(d, ["npopuli999", "xlcyuxi999"], "1980"))
 
     const result = await Promise.all(promises)
+    console.log(result)
 
     let data_total = result.flatMap(d => d);
-    console.log(data_total);
+
+
+    // console.log(data_total);
 
     // const data_total_csv = d3.csvFormat(data_total, ["year", "country", "variable", "value"]);
     // console.log(data_total_csv);
 }
 
 main();
+
+
+
+
