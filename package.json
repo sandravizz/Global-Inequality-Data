@@ -1,0 +1,14 @@
+{
+  "name": "global_inequality",
+  "version": "1.0.0",
+  "description": "Using the [World Inequality Database (WID)](https://wid.world/) for a new data visualisation and storytelling project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}

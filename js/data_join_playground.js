@@ -10,10 +10,10 @@ async function loading() {
     const b = await aq.load(`../data/b.csv`, { delimiter: ',' }, { using: aq.fromCSV });
     console.log(b.objects());
 
-    // let c = a
-    // .join(b, ['year', 'year'])
-    // .objects(); 
-    // console.log(c); 
+    let c = a
+    .join(b, ['year', 'year'])
+    .objects(); 
+    console.log(c); 
 
     let d = a.cross(b, [['variable', 'value', 'country', 'year'], ['variable', 'value', 'country', 'year']])
     .objects(); 
