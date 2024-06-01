@@ -1,14 +1,22 @@
 {
-  "name": "global_inequality",
-  "version": "1.0.0",
-  "description": "Using the [World Inequality Database (WID)](https://wid.world/) for a new data visualisation and storytelling project.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "prettier": "^3.2.5"
-  }
+    "name": "global_inequality",
+    "version": "1.0.0",
+    "description": "Using the [World Inequality Database (WID)](https://wid.world/) for a new data visualisation and storytelling project.",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^3.2.5"
+    },
+    "keywords": [],
+    "dependencies": {
+        "arquero": "^5.4.0",
+        "d3": "^5.16.0",
+        "d3-fetch": "^3.0.1",
+        "fs-extra": "^11.2.0"
+    }
 }
