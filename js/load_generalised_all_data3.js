@@ -2,6 +2,7 @@ const aq = require('arquero')
 const fs = require('fs-extra')
 const path = require('path')
 const d3 = require('d3')
+
 async function loadData(countryAbbreviation) {
     const filePath = path.resolve(
         __dirname,
