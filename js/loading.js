@@ -13,9 +13,9 @@ async function loadData(countryAbbreviation) {
         const fileContent = await fs.readFile(filePath, 'utf8')
         return await aq.load(filePath, { delimiter: ';' })
     } catch (error) {
-        console.log(
-            `File for country ${countryAbbreviation} does not exist or failed to load.`
-        )
+        // console.log(
+        //     `File for country ${countryAbbreviation} does not exist or failed to load.`
+        // )
         return null
     }
 }
@@ -299,14 +299,9 @@ async function main() {
     ]
 
     const variableNames = [
-        'npopuli999',
-        'rcaincj992',
         'rdiincj992',
-        'rhwealj992',
         'rptincj992',
-        'gcaincj992',
         'gdiincj992',
-        'ghwealj992',
         'gptincj992',
     ]
 
