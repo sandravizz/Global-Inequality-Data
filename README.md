@@ -12,3 +12,5 @@ The correponding code can be found [here](js/loading.js).
 In this second step the final file is join with the general country file from WID to create a final dataset including all variables needed as well as applying some transformation [here](js/join.js).
 
 Made with :green_heart: by [Patrick](https://www.linkedin.com/in/patrickwojda/) && [Sandra](https://www.sandraviz.com/bio) and support form [Austin](https://github.com/thataustin?tab=overview&from=2024-06-01&to=2024-06-12).
+
+Follow me: [twitter](https://twitter.com/SandraCrypto), [linkedin](https://www.linkedin.com/in/sandradataviz/)
