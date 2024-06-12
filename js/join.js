@@ -23,13 +23,33 @@ async function loading() {
     // console.log(WID_countries.objects());
 
     //Join data and info
-    let data_all = data.join(WID_countries, ['country', 'alpha2']).objects()
-    // console.log(data_all);
+    let data_all = data
+        .join(WID_countries, ['country', 'alpha2'])
+        .select(
+            'year',
+            'country',
+            'gdiincj992',
+            'gptincj992',
+            'rdiincj992',
+            'rptincj992',
+            'region',
+            'region2',
+            'shortname'
+        )
+        .rename({
+            gptincj992: 'gini_pretaxes',
+            gdiincj992: 'gini_posttaxes',
+            rdiincj992: 'ratio1050_posttaxes',
+            rptincj992: 'ratio1050_pertaxes',
+        })
+        .derive({ decade: (d) => Math.floor(d.year / 10) * 10 })
+        .objects()
+    console.log(data_all)
 
     const csvData = d3.csvFormat(data_all)
     // console.log(csvData);
 
-    // Write CSV data to file
+    //Write CSV data to file
     const outputPath = path.resolve(__dirname, './data_all.csv')
     fs.ensureDirSync(path.dirname(outputPath))
     fs.writeFileSync(outputPath, csvData, 'utf8')
