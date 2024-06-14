@@ -57,7 +57,6 @@ async function fetchAndTransform(
 
     return result
 }
-
 async function main() {
     const countryNames = [
         'AD',
