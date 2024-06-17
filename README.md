@@ -29,6 +29,6 @@ the main variables.
 
 [here](js/join.js).
 
-Made with :green_heart: by [Patrick](https://www.linkedin.com/in/patrickwojda/) && [Sandra](https://www.sandraviz.com/bio) and support form [Austin](https://github.com/thataustin?tab=overview&from=2024-06-01&to=2024-06-12).
+Made with :green_heart: by [Patrick](https://www.linkedin.com/in/patrickwojda/) && [Sandraviz](https://www.sandraviz.com/bio) and support form [Austin](https://github.com/thataustin?tab=overview&from=2024-06-01&to=2024-06-12).
 
-Follow me: [twitter](https://twitter.com/SandraCrypto), [linkedin](https://www.linkedin.com/in/sandradataviz/)
+Follow me: [twitter](https://twitter.com/SandraCrypto), [linkedin](https://www.linkedin.com/in/sandradataviz/) and [observable](https://observablehq.com/@sandraviz)
