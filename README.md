@@ -1,6 +1,16 @@
 # Global inequality
 
-In this repository I use mainly the js library [arquero](https://www.npmjs.com/package/arquero) to load, join and transform the data from the [World Inequality Database (WID)](https://wid.world/) for a new data visualisation and storytelling project. The objective of this project is to investigate the reasons and consequences of a rising global inequality.
+This is a data driven project about gloabl inequality.
+
+## Background
+
+Something isn't going well in current, modern, western societies. I feel it, my friends feel it, people around us and in the world are struggeling. More and more do we hear about our democracies failing our communities splitting and inequalities rising.
+
+In order to invesitgate about this preceived development Patrick and I decided to have a deeper and as it turns out a very deep look at data about global inequality.
+
+## Data warngling
+
+Using data from the [World Inequality Database (WID)](https://wid.world/) we use mainly the js library [arquero](https://www.npmjs.com/package/arquero) to load, join and transform data. The objective of this project is to investigate the reasons and consequences of a rising global inequality.
 
 ## Loading.js
 
