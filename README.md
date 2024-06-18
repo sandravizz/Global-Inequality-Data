@@ -1,10 +1,10 @@
 # Global inequality
 
-This is a data driven project about gloabl inequality.
+This is a data driven project about global inequality.
 
 ## Background
 
-Something isn't going well in current, modern, western societies. I feel it, my friends feel it, people around us and in the world are struggeling. More and more do we hear about our democracies failing our communities splitting and inequalities rising.
+Something isn't going well in current, modern, western societies. I feel it, my friends feel it, people around us and in the world are struggeling. More and more do we hear about our democracies failing, our communities splitting and inequalities rising.
 
 In order to invesitgate about this preceived development Patrick and I decided to have a deeper and as it turns out a very deep look at data about global inequality.
 
