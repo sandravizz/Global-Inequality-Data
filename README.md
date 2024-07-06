@@ -2,6 +2,10 @@
 
 This is a data driven project about global inequality.
 
+The project is split into two Github repository. This one is called "Global inequality" is used for data loading and warngling. The output is the input for the second one repository called gini, which is used for the web-page and visualisations unsing svelte, layercake and d3.js.
+
+![alt text](image.png)
+
 ## Background
 
 Something isn't going well in current, modern, western societies. I feel it, my friends feel it, people around us and in the world are struggeling. More and more do we hear about our democracies failing, our communities splitting and inequalities rising.
