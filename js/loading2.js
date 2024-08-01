@@ -13,9 +13,9 @@ async function loadData(countryAbbreviation) {
         const fileContent = await fs.readFile(filePath, 'utf8')
         return await aq.load(filePath, { delimiter: ';' })
     } catch (error) {
-        // console.log(
-        //     `File for country ${countryAbbreviation} does not exist or failed to load.`
-        // )
+        console.log(
+            `File for country ${countryAbbreviation} does not exist or failed to load.`
+        )
         return null
     }
 }
@@ -36,10 +36,12 @@ async function fetchAndTransform(
         .filter(
             aq.escape(
                 (d) =>
-                    d.year >= startYear && variableNames.includes(d.percentile)
+                    d.year >= startYear &&
+                    variableNames.includes(d.percentile) &&
+                    d.variable === 'scaincj992'
             )
         )
-        .select('country', 'variable', 'value', 'year')
+        .select('country', 'variable', 'value', 'year', 'percentile')
 
     const result = filteredData
         .groupby('year', 'country')
@@ -295,7 +297,7 @@ async function main() {
         'ZZ',
     ]
 
-    const variableNames = ['p0p50', 'p99p100', 'p90p100']
+    const variableNames = ['p99p100', 'p90p100', 'p0p50']
 
     const startYear = 1980
 

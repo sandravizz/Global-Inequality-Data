@@ -1,0 +1,1468 @@
+year,country,lowest_50,highst_10,highst_1,region,region2,shortname,decade
+1996,AL,0.2011,0.2997,0.0679,Europe,Eastern Europe,Albania,1990
+1997,AL,0.198,0.3053,0.0711,Europe,Eastern Europe,Albania,1990
+1998,AL,0.1954,0.3086,0.0727,Europe,Eastern Europe,Albania,1990
+1999,AL,0.1935,0.3105,0.0739,Europe,Eastern Europe,Albania,1990
+2000,AL,0.1938,0.3083,0.0716,Europe,Eastern Europe,Albania,2000
+2001,AL,0.1936,0.309,0.0709,Europe,Eastern Europe,Albania,2000
+2002,AL,0.1919,0.3113,0.0724,Europe,Eastern Europe,Albania,2000
+2003,AL,0.1933,0.3111,0.0729,Europe,Eastern Europe,Albania,2000
+2004,AL,0.1959,0.3077,0.0717,Europe,Eastern Europe,Albania,2000
+2005,AL,0.1971,0.3063,0.0712,Europe,Eastern Europe,Albania,2000
+2006,AL,0.1966,0.3046,0.0705,Europe,Eastern Europe,Albania,2000
+2007,AL,0.1977,0.3012,0.0698,Europe,Eastern Europe,Albania,2000
+2008,AL,0.1977,0.3053,0.0729,Europe,Eastern Europe,Albania,2000
+2009,AL,0.1997,0.3036,0.0722,Europe,Eastern Europe,Albania,2000
+2010,AL,0.2003,0.3046,0.0724,Europe,Eastern Europe,Albania,2010
+2011,AL,0.2001,0.3077,0.0736,Europe,Eastern Europe,Albania,2010
+2012,AL,0.2,0.3091,0.0746,Europe,Eastern Europe,Albania,2010
+2013,AL,0.1967,0.3163,0.0768,Europe,Eastern Europe,Albania,2010
+2014,AL,0.1908,0.3232,0.078,Europe,Eastern Europe,Albania,2010
+2015,AL,0.1969,0.3179,0.0769,Europe,Eastern Europe,Albania,2010
+2016,AL,0.1892,0.3198,0.0751,Europe,Eastern Europe,Albania,2010
+2017,AL,0.1943,0.3157,0.0739,Europe,Eastern Europe,Albania,2010
+2018,AL,0.1988,0.3106,0.0721,Europe,Eastern Europe,Albania,2010
+2019,AL,0.2008,0.3139,0.0764,Europe,Eastern Europe,Albania,2010
+2020,AL,0.2007,0.3133,0.0757,Europe,Eastern Europe,Albania,2020
+2021,AL,0.2007,0.3135,0.0759,Europe,Eastern Europe,Albania,2020
+1980,AT,0.3014,0.2772,0.0961,Europe,Western Europe,Austria,1980
+1981,AT,0.3003,0.2784,0.0965,Europe,Western Europe,Austria,1980
+1982,AT,0.2992,0.2794,0.096,Europe,Western Europe,Austria,1980
+1983,AT,0.2994,0.2792,0.0961,Europe,Western Europe,Austria,1980
+1984,AT,0.297,0.2846,0.1,Europe,Western Europe,Austria,1980
+1985,AT,0.2964,0.2817,0.0985,Europe,Western Europe,Austria,1980
+1986,AT,0.294,0.2839,0.0995,Europe,Western Europe,Austria,1980
+1987,AT,0.3113,0.2734,0.0917,Europe,Western Europe,Austria,1980
+1988,AT,0.308,0.2777,0.0942,Europe,Western Europe,Austria,1980
+1989,AT,0.2993,0.2817,0.0958,Europe,Western Europe,Austria,1980
+1990,AT,0.3046,0.2727,0.0904,Europe,Western Europe,Austria,1990
+1991,AT,0.2964,0.2895,0.1033,Europe,Western Europe,Austria,1990
+1992,AT,0.3018,0.2788,0.0974,Europe,Western Europe,Austria,1990
+1993,AT,0.2963,0.2934,0.1078,Europe,Western Europe,Austria,1990
+1994,AT,0.2939,0.2866,0.1022,Europe,Western Europe,Austria,1990
+1995,AT,0.2914,0.2804,0.097,Europe,Western Europe,Austria,1990
+1996,AT,0.2933,0.2796,0.0957,Europe,Western Europe,Austria,1990
+1997,AT,0.2987,0.2765,0.0929,Europe,Western Europe,Austria,1990
+1998,AT,0.2955,0.2869,0.1015,Europe,Western Europe,Austria,1990
+1999,AT,0.2984,0.2788,0.0942,Europe,Western Europe,Austria,1990
+2000,AT,0.2959,0.2908,0.1046,Europe,Western Europe,Austria,2000
+2001,AT,0.3031,0.277,0.0943,Europe,Western Europe,Austria,2000
+2002,AT,0.2945,0.2926,0.1039,Europe,Western Europe,Austria,2000
+2003,AT,0.2819,0.3109,0.1149,Europe,Western Europe,Austria,2000
+2004,AT,0.2948,0.2902,0.1051,Europe,Western Europe,Austria,2000
+2005,AT,0.2842,0.3062,0.1023,Europe,Western Europe,Austria,2000
+2006,AT,0.2733,0.3281,0.1241,Europe,Western Europe,Austria,2000
+2007,AT,0.28,0.3061,0.1018,Europe,Western Europe,Austria,2000
+2008,AT,0.284,0.3079,0.1125,Europe,Western Europe,Austria,2000
+2009,AT,0.288,0.2898,0.0955,Europe,Western Europe,Austria,2000
+2010,AT,0.2868,0.2969,0.1036,Europe,Western Europe,Austria,2010
+2011,AT,0.2904,0.2899,0.1008,Europe,Western Europe,Austria,2010
+2012,AT,0.2979,0.2704,0.0713,Europe,Western Europe,Austria,2010
+2013,AT,0.3017,0.2712,0.0792,Europe,Western Europe,Austria,2010
+2014,AT,0.2963,0.2887,0.1011,Europe,Western Europe,Austria,2010
+2015,AT,0.3034,0.2736,0.0878,Europe,Western Europe,Austria,2010
+2016,AT,0.2934,0.2905,0.1016,Europe,Western Europe,Austria,2010
+2017,AT,0.3017,0.2821,0.0917,Europe,Western Europe,Austria,2010
+2018,AT,0.2938,0.2894,0.0963,Europe,Western Europe,Austria,2010
+2019,AT,0.3023,0.2753,0.0839,Europe,Western Europe,Austria,2010
+2020,AT,0.2913,0.3001,0.1036,Europe,Western Europe,Austria,2020
+2021,AT,0.2923,0.2978,0.1018,Europe,Western Europe,Austria,2020
+1980,BA,0.2769,0.2492,0.0647,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1981,BA,0.2769,0.2492,0.0647,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1982,BA,0.2769,0.2492,0.0647,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1983,BA,0.2769,0.2491,0.0647,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1984,BA,0.2716,0.2565,0.0688,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1985,BA,0.273,0.2522,0.066,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1986,BA,0.2694,0.2465,0.0591,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1987,BA,0.269,0.2547,0.0657,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1988,BA,0.2553,0.2666,0.0702,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1989,BA,0.2741,0.2433,0.0588,Europe,Eastern Europe,Bosnia and Herzegovina,1980
+1990,BA,0.2766,0.2416,0.0587,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1991,BA,0.2697,0.2483,0.0607,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1992,BA,0.2623,0.256,0.0637,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1993,BA,0.2547,0.2642,0.0672,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1994,BA,0.2472,0.2725,0.0713,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1995,BA,0.2394,0.2816,0.0759,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1996,BA,0.2327,0.2864,0.0768,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1997,BA,0.2257,0.2918,0.0781,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1998,BA,0.2184,0.2995,0.0818,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+1999,BA,0.2122,0.3015,0.0796,Europe,Eastern Europe,Bosnia and Herzegovina,1990
+2000,BA,0.2058,0.3058,0.08,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2001,BA,0.1984,0.3127,0.0827,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2002,BA,0.2016,0.3136,0.0775,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2003,BA,0.198,0.318,0.0776,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2004,BA,0.1998,0.318,0.0729,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2005,BA,0.2008,0.316,0.0725,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2006,BA,0.201,0.3137,0.0702,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2007,BA,0.2004,0.3148,0.0707,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2008,BA,0.2016,0.3156,0.0717,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2009,BA,0.2023,0.3155,0.0718,Europe,Eastern Europe,Bosnia and Herzegovina,2000
+2010,BA,0.2023,0.3164,0.0737,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2011,BA,0.2026,0.3185,0.0769,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2012,BA,0.203,0.3177,0.0773,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2013,BA,0.2021,0.3188,0.0786,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2014,BA,0.2024,0.3182,0.0787,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2015,BA,0.2041,0.3183,0.0787,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2016,BA,0.2049,0.3171,0.0779,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2017,BA,0.2045,0.3189,0.0798,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2018,BA,0.2047,0.3173,0.078,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2019,BA,0.2054,0.3149,0.0758,Europe,Eastern Europe,Bosnia and Herzegovina,2010
+2020,BA,0.2053,0.3143,0.075,Europe,Eastern Europe,Bosnia and Herzegovina,2020
+2021,BA,0.2053,0.3146,0.0753,Europe,Eastern Europe,Bosnia and Herzegovina,2020
+1980,BE,0.2544,0.2723,0.0583,Europe,Western Europe,Belgium,1980
+1981,BE,0.2578,0.2689,0.0564,Europe,Western Europe,Belgium,1980
+1982,BE,0.2659,0.2637,0.0577,Europe,Western Europe,Belgium,1980
+1983,BE,0.2627,0.2561,0.0497,Europe,Western Europe,Belgium,1980
+1984,BE,0.2639,0.2524,0.0474,Europe,Western Europe,Belgium,1980
+1985,BE,0.2637,0.2554,0.0525,Europe,Western Europe,Belgium,1980
+1986,BE,0.2579,0.26,0.0527,Europe,Western Europe,Belgium,1980
+1987,BE,0.2552,0.2715,0.0583,Europe,Western Europe,Belgium,1980
+1988,BE,0.2523,0.2751,0.0632,Europe,Western Europe,Belgium,1980
+1989,BE,0.2393,0.2864,0.0652,Europe,Western Europe,Belgium,1980
+1990,BE,0.247,0.2702,0.0617,Europe,Western Europe,Belgium,1990
+1991,BE,0.2521,0.2627,0.0556,Europe,Western Europe,Belgium,1990
+1992,BE,0.2478,0.2663,0.0576,Europe,Western Europe,Belgium,1990
+1993,BE,0.2468,0.2645,0.0555,Europe,Western Europe,Belgium,1990
+1994,BE,0.2451,0.2706,0.0577,Europe,Western Europe,Belgium,1990
+1995,BE,0.249,0.2685,0.056,Europe,Western Europe,Belgium,1990
+1996,BE,0.2468,0.27,0.0565,Europe,Western Europe,Belgium,1990
+1997,BE,0.2498,0.2739,0.0612,Europe,Western Europe,Belgium,1990
+1998,BE,0.2408,0.2797,0.0593,Europe,Western Europe,Belgium,1990
+1999,BE,0.242,0.2754,0.0574,Europe,Western Europe,Belgium,1990
+2000,BE,0.237,0.2771,0.0578,Europe,Western Europe,Belgium,2000
+2001,BE,0.2436,0.2717,0.0572,Europe,Western Europe,Belgium,2000
+2002,BE,0.2414,0.2764,0.0595,Europe,Western Europe,Belgium,2000
+2003,BE,0.2412,0.2679,0.0544,Europe,Western Europe,Belgium,2000
+2004,BE,0.2416,0.2809,0.0639,Europe,Western Europe,Belgium,2000
+2005,BE,0.2436,0.2806,0.0646,Europe,Western Europe,Belgium,2000
+2006,BE,0.2434,0.2861,0.0678,Europe,Western Europe,Belgium,2000
+2007,BE,0.2423,0.2973,0.0758,Europe,Western Europe,Belgium,2000
+2008,BE,0.2566,0.2749,0.0627,Europe,Western Europe,Belgium,2000
+2009,BE,0.2453,0.2835,0.0656,Europe,Western Europe,Belgium,2000
+2010,BE,0.2482,0.2711,0.0586,Europe,Western Europe,Belgium,2010
+2011,BE,0.2507,0.2728,0.0606,Europe,Western Europe,Belgium,2010
+2012,BE,0.2518,0.2719,0.0593,Europe,Western Europe,Belgium,2010
+2013,BE,0.2514,0.2701,0.0575,Europe,Western Europe,Belgium,2010
+2014,BE,0.2526,0.2725,0.0597,Europe,Western Europe,Belgium,2010
+2015,BE,0.2462,0.2773,0.062,Europe,Western Europe,Belgium,2010
+2016,BE,0.2475,0.2779,0.0625,Europe,Western Europe,Belgium,2010
+2017,BE,0.2488,0.2727,0.0599,Europe,Western Europe,Belgium,2010
+2018,BE,0.258,0.2677,0.0584,Europe,Western Europe,Belgium,2010
+2019,BE,0.2557,0.2713,0.0604,Europe,Western Europe,Belgium,2010
+2020,BE,0.2568,0.2694,0.0592,Europe,Western Europe,Belgium,2020
+2021,BE,0.2568,0.2695,0.0594,Europe,Western Europe,Belgium,2020
+1980,BG,0.3056,0.2009,0.0313,Europe,Eastern Europe,Bulgaria,1980
+1981,BG,0.3102,0.2031,0.0329,Europe,Eastern Europe,Bulgaria,1980
+1982,BG,0.2988,0.2299,0.0497,Europe,Eastern Europe,Bulgaria,1980
+1983,BG,0.3025,0.2297,0.0496,Europe,Eastern Europe,Bulgaria,1980
+1984,BG,0.3059,0.2229,0.0469,Europe,Eastern Europe,Bulgaria,1980
+1985,BG,0.3121,0.209,0.0385,Europe,Eastern Europe,Bulgaria,1980
+1986,BG,0.3266,0.1931,0.0307,Europe,Eastern Europe,Bulgaria,1980
+1987,BG,0.3308,0.1706,0.0209,Europe,Eastern Europe,Bulgaria,1980
+1988,BG,0.3219,0.1673,0.0201,Europe,Eastern Europe,Bulgaria,1980
+1989,BG,0.3167,0.2124,0.0411,Europe,Eastern Europe,Bulgaria,1980
+1990,BG,0.3005,0.2359,0.0502,Europe,Eastern Europe,Bulgaria,1990
+1991,BG,0.2727,0.2673,0.0681,Europe,Eastern Europe,Bulgaria,1990
+1992,BG,0.2544,0.2944,0.0825,Europe,Eastern Europe,Bulgaria,1990
+1993,BG,0.2354,0.3112,0.0893,Europe,Eastern Europe,Bulgaria,1990
+1994,BG,0.2176,0.3537,0.1184,Europe,Eastern Europe,Bulgaria,1990
+1995,BG,0.2109,0.369,0.1305,Europe,Eastern Europe,Bulgaria,1990
+1996,BG,0.2244,0.346,0.1161,Europe,Eastern Europe,Bulgaria,1990
+1997,BG,0.2263,0.3356,0.1072,Europe,Eastern Europe,Bulgaria,1990
+1998,BG,0.2342,0.3184,0.0964,Europe,Eastern Europe,Bulgaria,1990
+1999,BG,0.2397,0.3096,0.093,Europe,Eastern Europe,Bulgaria,1990
+2000,BG,0.2362,0.3042,0.0861,Europe,Eastern Europe,Bulgaria,2000
+2001,BG,0.2272,0.3218,0.1009,Europe,Eastern Europe,Bulgaria,2000
+2002,BG,0.2115,0.3466,0.1143,Europe,Eastern Europe,Bulgaria,2000
+2003,BG,0.2192,0.3271,0.101,Europe,Eastern Europe,Bulgaria,2000
+2004,BG,0.2193,0.328,0.1019,Europe,Eastern Europe,Bulgaria,2000
+2005,BG,0.2115,0.334,0.1056,Europe,Eastern Europe,Bulgaria,2000
+2006,BG,0.1991,0.3332,0.0995,Europe,Eastern Europe,Bulgaria,2000
+2007,BG,0.2116,0.3108,0.076,Europe,Eastern Europe,Bulgaria,2000
+2008,BG,0.218,0.3081,0.073,Europe,Eastern Europe,Bulgaria,2000
+2009,BG,0.2191,0.3279,0.1019,Europe,Eastern Europe,Bulgaria,2000
+2010,BG,0.2154,0.3301,0.1039,Europe,Eastern Europe,Bulgaria,2010
+2011,BG,0.2152,0.3345,0.1112,Europe,Eastern Europe,Bulgaria,2010
+2012,BG,0.204,0.3567,0.1234,Europe,Eastern Europe,Bulgaria,2010
+2013,BG,0.2165,0.3398,0.1116,Europe,Eastern Europe,Bulgaria,2010
+2014,BG,0.207,0.357,0.1211,Europe,Eastern Europe,Bulgaria,2010
+2015,BG,0.2042,0.3622,0.1281,Europe,Eastern Europe,Bulgaria,2010
+2016,BG,0.1908,0.4012,0.1627,Europe,Eastern Europe,Bulgaria,2010
+2017,BG,0.19,0.4127,0.1762,Europe,Eastern Europe,Bulgaria,2010
+2018,BG,0.1902,0.4187,0.1794,Europe,Eastern Europe,Bulgaria,2010
+2019,BG,0.198,0.393,0.151,Europe,Eastern Europe,Bulgaria,2010
+2020,BG,0.1977,0.3936,0.1516,Europe,Eastern Europe,Bulgaria,2020
+2021,BG,0.1978,0.3936,0.1515,Europe,Eastern Europe,Bulgaria,2020
+1980,CH,0.2561,0.2899,0.0873,Europe,Western Europe,Switzerland,1980
+1981,CH,0.2559,0.2899,0.0873,Europe,Western Europe,Switzerland,1980
+1982,CH,0.2562,0.291,0.0886,Europe,Western Europe,Switzerland,1980
+1983,CH,0.2548,0.2926,0.0975,Europe,Western Europe,Switzerland,1980
+1984,CH,0.2541,0.293,0.096,Europe,Western Europe,Switzerland,1980
+1985,CH,0.2485,0.3033,0.1037,Europe,Western Europe,Switzerland,1980
+1986,CH,0.2527,0.2934,0.0967,Europe,Western Europe,Switzerland,1980
+1987,CH,0.2559,0.2893,0.0944,Europe,Western Europe,Switzerland,1980
+1988,CH,0.253,0.2892,0.0948,Europe,Western Europe,Switzerland,1980
+1989,CH,0.2574,0.2855,0.0935,Europe,Western Europe,Switzerland,1980
+1990,CH,0.2514,0.286,0.0922,Europe,Western Europe,Switzerland,1990
+1991,CH,0.2498,0.296,0.0854,Europe,Western Europe,Switzerland,1990
+1992,CH,0.2531,0.2851,0.0865,Europe,Western Europe,Switzerland,1990
+1993,CH,0.253,0.2814,0.087,Europe,Western Europe,Switzerland,1990
+1994,CH,0.2561,0.2821,0.0903,Europe,Western Europe,Switzerland,1990
+1995,CH,0.2595,0.2805,0.0893,Europe,Western Europe,Switzerland,1990
+1996,CH,0.2546,0.292,0.0938,Europe,Western Europe,Switzerland,1990
+1997,CH,0.2518,0.2978,0.0991,Europe,Western Europe,Switzerland,1990
+1998,CH,0.2464,0.3066,0.099,Europe,Western Europe,Switzerland,1990
+1999,CH,0.2494,0.2964,0.0974,Europe,Western Europe,Switzerland,1990
+2000,CH,0.2493,0.3092,0.1062,Europe,Western Europe,Switzerland,2000
+2001,CH,0.2521,0.2872,0.0794,Europe,Western Europe,Switzerland,2000
+2002,CH,0.2586,0.2747,0.0684,Europe,Western Europe,Switzerland,2000
+2003,CH,0.2534,0.2897,0.0902,Europe,Western Europe,Switzerland,2000
+2004,CH,0.249,0.2989,0.0902,Europe,Western Europe,Switzerland,2000
+2005,CH,0.2399,0.3119,0.1076,Europe,Western Europe,Switzerland,2000
+2006,CH,0.2336,0.3309,0.1199,Europe,Western Europe,Switzerland,2000
+2007,CH,0.2349,0.3194,0.1067,Europe,Western Europe,Switzerland,2000
+2008,CH,0.2248,0.3028,0.0909,Europe,Western Europe,Switzerland,2000
+2009,CH,0.2444,0.2977,0.0933,Europe,Western Europe,Switzerland,2000
+2010,CH,0.2387,0.3133,0.1039,Europe,Western Europe,Switzerland,2010
+2011,CH,0.2455,0.3014,0.0907,Europe,Western Europe,Switzerland,2010
+2012,CH,0.2479,0.303,0.0973,Europe,Western Europe,Switzerland,2010
+2013,CH,0.2485,0.3015,0.0913,Europe,Western Europe,Switzerland,2010
+2014,CH,0.2485,0.3004,0.0949,Europe,Western Europe,Switzerland,2010
+2015,CH,0.2495,0.3006,0.0972,Europe,Western Europe,Switzerland,2010
+2016,CH,0.246,0.2981,0.0951,Europe,Western Europe,Switzerland,2010
+2017,CH,0.2448,0.2964,0.0931,Europe,Western Europe,Switzerland,2010
+2018,CH,0.2427,0.2948,0.0912,Europe,Western Europe,Switzerland,2010
+2019,CH,0.2418,0.294,0.0899,Europe,Western Europe,Switzerland,2010
+2020,CH,0.2369,0.2934,0.0879,Europe,Western Europe,Switzerland,2020
+2021,CH,0.2374,0.2934,0.0881,Europe,Western Europe,Switzerland,2020
+1990,CY,0.2128,0.3346,0.0999,Europe,Eastern Europe,Cyprus,1990
+1991,CY,0.2127,0.3338,0.0993,Europe,Eastern Europe,Cyprus,1990
+1992,CY,0.2149,0.3306,0.098,Europe,Eastern Europe,Cyprus,1990
+1993,CY,0.2164,0.328,0.0971,Europe,Eastern Europe,Cyprus,1990
+1994,CY,0.2163,0.3287,0.0982,Europe,Eastern Europe,Cyprus,1990
+1995,CY,0.2162,0.33,0.0996,Europe,Eastern Europe,Cyprus,1990
+1996,CY,0.219,0.3196,0.0926,Europe,Eastern Europe,Cyprus,1990
+1997,CY,0.221,0.3075,0.0843,Europe,Eastern Europe,Cyprus,1990
+1998,CY,0.2052,0.3626,0.1251,Europe,Eastern Europe,Cyprus,1990
+1999,CY,0.2277,0.3056,0.0845,Europe,Eastern Europe,Cyprus,1990
+2000,CY,0.2367,0.2872,0.0726,Europe,Eastern Europe,Cyprus,2000
+2001,CY,0.229,0.2994,0.0809,Europe,Eastern Europe,Cyprus,2000
+2002,CY,0.2174,0.3258,0.0982,Europe,Eastern Europe,Cyprus,2000
+2003,CY,0.2215,0.3178,0.093,Europe,Eastern Europe,Cyprus,2000
+2004,CY,0.2337,0.278,0.0625,Europe,Eastern Europe,Cyprus,2000
+2005,CY,0.2203,0.2867,0.0671,Europe,Eastern Europe,Cyprus,2000
+2006,CY,0.1853,0.314,0.086,Europe,Eastern Europe,Cyprus,2000
+2007,CY,0.0909,0.3353,0.0823,Europe,Eastern Europe,Cyprus,2000
+2008,CY,0.2317,0.2974,0.0816,Europe,Eastern Europe,Cyprus,2000
+2009,CY,0.2239,0.3052,0.0774,Europe,Eastern Europe,Cyprus,2000
+2010,CY,0.2276,0.2932,0.069,Europe,Eastern Europe,Cyprus,2010
+2011,CY,0.2077,0.3306,0.0963,Europe,Eastern Europe,Cyprus,2010
+2012,CY,0.2061,0.3365,0.104,Europe,Eastern Europe,Cyprus,2010
+2013,CY,0.1915,0.372,0.1322,Europe,Eastern Europe,Cyprus,2010
+2014,CY,0.2077,0.3295,0.0959,Europe,Eastern Europe,Cyprus,2010
+2015,CY,0.2118,0.3231,0.0929,Europe,Eastern Europe,Cyprus,2010
+2016,CY,0.2235,0.311,0.085,Europe,Eastern Europe,Cyprus,2010
+2017,CY,0.241,0.2967,0.0748,Europe,Eastern Europe,Cyprus,2010
+2018,CY,0.2363,0.317,0.0986,Europe,Eastern Europe,Cyprus,2010
+2019,CY,0.2533,0.2819,0.0648,Europe,Eastern Europe,Cyprus,2010
+2020,CY,0.2527,0.2825,0.0651,Europe,Eastern Europe,Cyprus,2020
+2021,CY,0.2527,0.2825,0.0651,Europe,Eastern Europe,Cyprus,2020
+1980,CZ,0.3785,0.157,0.0217,Europe,Eastern Europe,Czech Republic,1980
+1981,CZ,0.3801,0.1575,0.0213,Europe,Eastern Europe,Czech Republic,1980
+1982,CZ,0.3832,0.1557,0.0211,Europe,Eastern Europe,Czech Republic,1980
+1983,CZ,0.3831,0.1553,0.0212,Europe,Eastern Europe,Czech Republic,1980
+1984,CZ,0.3853,0.1542,0.0211,Europe,Eastern Europe,Czech Republic,1980
+1985,CZ,0.3856,0.1537,0.021,Europe,Eastern Europe,Czech Republic,1980
+1986,CZ,0.3839,0.1558,0.0223,Europe,Eastern Europe,Czech Republic,1980
+1987,CZ,0.3839,0.1569,0.0237,Europe,Eastern Europe,Czech Republic,1980
+1988,CZ,0.3829,0.1585,0.0247,Europe,Eastern Europe,Czech Republic,1980
+1989,CZ,0.3843,0.1655,0.0295,Europe,Eastern Europe,Czech Republic,1980
+1990,CZ,0.3772,0.1758,0.037,Europe,Eastern Europe,Czech Republic,1990
+1991,CZ,0.3765,0.1885,0.046,Europe,Eastern Europe,Czech Republic,1990
+1992,CZ,0.3546,0.2136,0.0646,Europe,Eastern Europe,Czech Republic,1990
+1993,CZ,0.3316,0.2456,0.0831,Europe,Eastern Europe,Czech Republic,1990
+1994,CZ,0.3191,0.2574,0.0938,Europe,Eastern Europe,Czech Republic,1990
+1995,CZ,0.3204,0.2486,0.0837,Europe,Eastern Europe,Czech Republic,1990
+1996,CZ,0.3129,0.2613,0.0906,Europe,Eastern Europe,Czech Republic,1990
+1997,CZ,0.3244,0.2396,0.0757,Europe,Eastern Europe,Czech Republic,1990
+1998,CZ,0.3163,0.2552,0.0888,Europe,Eastern Europe,Czech Republic,1990
+1999,CZ,0.3195,0.2499,0.0839,Europe,Eastern Europe,Czech Republic,1990
+2000,CZ,0.3183,0.2577,0.089,Europe,Eastern Europe,Czech Republic,2000
+2001,CZ,0.3218,0.2522,0.087,Europe,Eastern Europe,Czech Republic,2000
+2002,CZ,0.3273,0.2402,0.0772,Europe,Eastern Europe,Czech Republic,2000
+2003,CZ,0.323,0.2419,0.0786,Europe,Eastern Europe,Czech Republic,2000
+2004,CZ,0.3212,0.246,0.0803,Europe,Eastern Europe,Czech Republic,2000
+2005,CZ,0.3248,0.2467,0.0855,Europe,Eastern Europe,Czech Republic,2000
+2006,CZ,0.3166,0.2498,0.0798,Europe,Eastern Europe,Czech Republic,2000
+2007,CZ,0.3176,0.2506,0.0862,Europe,Eastern Europe,Czech Republic,2000
+2008,CZ,0.3067,0.2716,0.1084,Europe,Eastern Europe,Czech Republic,2000
+2009,CZ,0.3162,0.2485,0.0847,Europe,Eastern Europe,Czech Republic,2000
+2010,CZ,0.3104,0.2485,0.0788,Europe,Eastern Europe,Czech Republic,2010
+2011,CZ,0.3224,0.2373,0.0709,Europe,Eastern Europe,Czech Republic,2010
+2012,CZ,0.3188,0.2412,0.0695,Europe,Eastern Europe,Czech Republic,2010
+2013,CZ,0.3238,0.2483,0.0808,Europe,Eastern Europe,Czech Republic,2010
+2014,CZ,0.3144,0.2506,0.0776,Europe,Eastern Europe,Czech Republic,2010
+2015,CZ,0.3092,0.2622,0.0919,Europe,Eastern Europe,Czech Republic,2010
+2016,CZ,0.3126,0.2544,0.087,Europe,Eastern Europe,Czech Republic,2010
+2017,CZ,0.3093,0.2582,0.0896,Europe,Eastern Europe,Czech Republic,2010
+2018,CZ,0.3119,0.2532,0.0859,Europe,Eastern Europe,Czech Republic,2010
+2019,CZ,0.3124,0.2521,0.0848,Europe,Eastern Europe,Czech Republic,2010
+2020,CZ,0.311,0.255,0.0869,Europe,Eastern Europe,Czech Republic,2020
+2021,CZ,0.3111,0.2547,0.0867,Europe,Eastern Europe,Czech Republic,2020
+1980,DE,0.2763,0.2536,0.048,Europe,Western Europe,Germany,1980
+1981,DE,0.2765,0.2522,0.0464,Europe,Western Europe,Germany,1980
+1982,DE,0.2786,0.2527,0.052,Europe,Western Europe,Germany,1980
+1983,DE,0.2807,0.2481,0.059,Europe,Western Europe,Germany,1980
+1984,DE,0.2766,0.2596,0.0635,Europe,Western Europe,Germany,1980
+1985,DE,0.2761,0.2496,0.0584,Europe,Western Europe,Germany,1980
+1986,DE,0.2885,0.2498,0.0535,Europe,Western Europe,Germany,1980
+1987,DE,0.2683,0.2596,0.0673,Europe,Western Europe,Germany,1980
+1988,DE,0.2739,0.2759,0.0752,Europe,Western Europe,Germany,1980
+1989,DE,0.262,0.285,0.0794,Europe,Western Europe,Germany,1980
+1990,DE,0.2555,0.2975,0.0857,Europe,Western Europe,Germany,1990
+1991,DE,0.2575,0.2636,0.0662,Europe,Western Europe,Germany,1990
+1992,DE,0.2585,0.2645,0.0668,Europe,Western Europe,Germany,1990
+1993,DE,0.269,0.2353,0.0506,Europe,Western Europe,Germany,1990
+1994,DE,0.2747,0.242,0.0541,Europe,Western Europe,Germany,1990
+1995,DE,0.2695,0.2584,0.0553,Europe,Western Europe,Germany,1990
+1996,DE,0.2799,0.2559,0.0529,Europe,Western Europe,Germany,1990
+1997,DE,0.272,0.2556,0.0544,Europe,Western Europe,Germany,1990
+1998,DE,0.268,0.2574,0.0563,Europe,Western Europe,Germany,1990
+1999,DE,0.2697,0.2656,0.0592,Europe,Western Europe,Germany,1990
+2000,DE,0.2607,0.2724,0.0608,Europe,Western Europe,Germany,2000
+2001,DE,0.2729,0.2684,0.0538,Europe,Western Europe,Germany,2000
+2002,DE,0.2566,0.2748,0.0598,Europe,Western Europe,Germany,2000
+2003,DE,0.2744,0.2491,0.0476,Europe,Western Europe,Germany,2000
+2004,DE,0.4211,0.1794,0.0459,Europe,Western Europe,Germany,2000
+2005,DE,0.2458,0.2889,0.0857,Europe,Western Europe,Germany,2000
+2006,DE,0.242,0.2873,0.0888,Europe,Western Europe,Germany,2000
+2007,DE,0.2339,0.2986,0.0895,Europe,Western Europe,Germany,2000
+2008,DE,0.2344,0.2966,0.0907,Europe,Western Europe,Germany,2000
+2009,DE,0.2418,0.2984,0.0837,Europe,Western Europe,Germany,2000
+2010,DE,0.2327,0.3126,0.0959,Europe,Western Europe,Germany,2010
+2011,DE,0.2329,0.3053,0.0907,Europe,Western Europe,Germany,2010
+2012,DE,0.2291,0.3107,0.0922,Europe,Western Europe,Germany,2010
+2013,DE,0.2143,0.3309,0.1074,Europe,Western Europe,Germany,2010
+2014,DE,0.2153,0.3358,0.1091,Europe,Western Europe,Germany,2010
+2015,DE,0.2175,0.3334,0.1089,Europe,Western Europe,Germany,2010
+2016,DE,0.2201,0.3327,0.1081,Europe,Western Europe,Germany,2010
+2017,DE,0.2194,0.3338,0.1091,Europe,Western Europe,Germany,2010
+2018,DE,0.2206,0.3272,0.1066,Europe,Western Europe,Germany,2010
+2019,DE,0.2157,0.3442,0.1119,Europe,Western Europe,Germany,2010
+2020,DE,0.2176,0.3425,0.1116,Europe,Western Europe,Germany,2020
+2021,DE,0.257,0.2884,0.0786,Europe,Western Europe,Germany,2020
+2022,DE,0.259,0.2826,0.0744,Europe,Western Europe,Germany,2020
+1980,DK,0.302,0.2286,0.0573,Europe,Western Europe,Denmark,1980
+1981,DK,0.2936,0.231,0.0566,Europe,Western Europe,Denmark,1980
+1982,DK,0.2937,0.2269,0.058,Europe,Western Europe,Denmark,1980
+1983,DK,0.2968,0.2415,0.0728,Europe,Western Europe,Denmark,1980
+1984,DK,0.2945,0.2458,0.077,Europe,Western Europe,Denmark,1980
+1985,DK,0.2868,0.26,0.0873,Europe,Western Europe,Denmark,1980
+1986,DK,0.3012,0.2386,0.0721,Europe,Western Europe,Denmark,1980
+1987,DK,0.2998,0.2409,0.0743,Europe,Western Europe,Denmark,1980
+1988,DK,0.2988,0.2354,0.0693,Europe,Western Europe,Denmark,1980
+1989,DK,0.2969,0.2422,0.0753,Europe,Western Europe,Denmark,1980
+1990,DK,0.2941,0.2455,0.0742,Europe,Western Europe,Denmark,1990
+1991,DK,0.301,0.2434,0.0766,Europe,Western Europe,Denmark,1990
+1992,DK,0.2946,0.2454,0.075,Europe,Western Europe,Denmark,1990
+1993,DK,0.2983,0.2394,0.072,Europe,Western Europe,Denmark,1990
+1994,DK,0.2944,0.2549,0.0847,Europe,Western Europe,Denmark,1990
+1995,DK,0.2993,0.2514,0.0827,Europe,Western Europe,Denmark,1990
+1996,DK,0.2989,0.2542,0.0849,Europe,Western Europe,Denmark,1990
+1997,DK,0.2926,0.2657,0.0934,Europe,Western Europe,Denmark,1990
+1998,DK,0.2945,0.2607,0.089,Europe,Western Europe,Denmark,1990
+1999,DK,0.2848,0.2802,0.1069,Europe,Western Europe,Denmark,1990
+2000,DK,0.2849,0.2788,0.1064,Europe,Western Europe,Denmark,2000
+2001,DK,0.2936,0.2611,0.0896,Europe,Western Europe,Denmark,2000
+2002,DK,0.2958,0.2524,0.0826,Europe,Western Europe,Denmark,2000
+2003,DK,0.3074,0.2426,0.0784,Europe,Western Europe,Denmark,2000
+2004,DK,0.2974,0.2539,0.0861,Europe,Western Europe,Denmark,2000
+2005,DK,0.292,0.2678,0.0967,Europe,Western Europe,Denmark,2000
+2006,DK,0.2924,0.266,0.0964,Europe,Western Europe,Denmark,2000
+2007,DK,0.295,0.2621,0.0921,Europe,Western Europe,Denmark,2000
+2008,DK,0.2887,0.2638,0.0929,Europe,Western Europe,Denmark,2000
+2009,DK,0.2951,0.2566,0.0883,Europe,Western Europe,Denmark,2000
+2010,DK,0.2766,0.2855,0.1049,Europe,Western Europe,Denmark,2010
+2011,DK,0.2732,0.2885,0.1066,Europe,Western Europe,Denmark,2010
+2012,DK,0.2714,0.2885,0.1079,Europe,Western Europe,Denmark,2010
+2013,DK,0.2661,0.2981,0.1127,Europe,Western Europe,Denmark,2010
+2014,DK,0.2585,0.3135,0.1253,Europe,Western Europe,Denmark,2010
+2015,DK,0.2631,0.3036,0.1189,Europe,Western Europe,Denmark,2010
+2016,DK,0.2612,0.3038,0.1182,Europe,Western Europe,Denmark,2010
+2017,DK,0.2626,0.3016,0.1126,Europe,Western Europe,Denmark,2010
+2018,DK,0.2599,0.3035,0.1141,Europe,Western Europe,Denmark,2010
+2019,DK,0.2612,0.3005,0.1115,Europe,Western Europe,Denmark,2010
+2020,DK,0.2573,0.3096,0.1193,Europe,Western Europe,Denmark,2020
+2021,DK,0.2546,0.3157,0.1246,Europe,Western Europe,Denmark,2020
+1980,EE,0.3005,0.2002,0.0314,Europe,Eastern Europe,Estonia,1980
+1981,EE,0.3004,0.2002,0.0314,Europe,Eastern Europe,Estonia,1980
+1982,EE,0.3002,0.2002,0.0314,Europe,Eastern Europe,Estonia,1980
+1983,EE,0.3003,0.2002,0.0314,Europe,Eastern Europe,Estonia,1980
+1984,EE,0.3001,0.2002,0.0314,Europe,Eastern Europe,Estonia,1980
+1985,EE,0.2993,0.2004,0.0314,Europe,Eastern Europe,Estonia,1980
+1986,EE,0.2995,0.2004,0.0314,Europe,Eastern Europe,Estonia,1980
+1987,EE,0.2991,0.2004,0.0314,Europe,Eastern Europe,Estonia,1980
+1988,EE,0.2993,0.2004,0.0314,Europe,Eastern Europe,Estonia,1980
+1989,EE,0.2766,0.2335,0.0489,Europe,Eastern Europe,Estonia,1980
+1990,EE,0.2433,0.2765,0.0708,Europe,Eastern Europe,Estonia,1990
+1991,EE,0.2181,0.3156,0.0928,Europe,Eastern Europe,Estonia,1990
+1992,EE,0.1942,0.3375,0.1027,Europe,Eastern Europe,Estonia,1990
+1993,EE,0.1801,0.3639,0.1177,Europe,Eastern Europe,Estonia,1990
+1994,EE,0.1763,0.376,0.1197,Europe,Eastern Europe,Estonia,1990
+1995,EE,0.1737,0.3943,0.1309,Europe,Eastern Europe,Estonia,1990
+1996,EE,0.1797,0.4006,0.1523,Europe,Eastern Europe,Estonia,1990
+1997,EE,0.1765,0.4134,0.1609,Europe,Eastern Europe,Estonia,1990
+1998,EE,0.1866,0.39,0.1482,Europe,Eastern Europe,Estonia,1990
+1999,EE,0.1833,0.3948,0.1547,Europe,Eastern Europe,Estonia,1990
+2000,EE,0.1808,0.3918,0.1421,Europe,Eastern Europe,Estonia,2000
+2001,EE,0.1814,0.3885,0.1446,Europe,Eastern Europe,Estonia,2000
+2002,EE,0.1727,0.4142,0.1704,Europe,Eastern Europe,Estonia,2000
+2003,EE,0.1668,0.3991,0.1595,Europe,Eastern Europe,Estonia,2000
+2004,EE,0.1872,0.3793,0.1493,Europe,Eastern Europe,Estonia,2000
+2005,EE,0.1837,0.4002,0.1651,Europe,Eastern Europe,Estonia,2000
+2006,EE,0.192,0.383,0.1494,Europe,Eastern Europe,Estonia,2000
+2007,EE,0.204,0.3561,0.1348,Europe,Eastern Europe,Estonia,2000
+2008,EE,0.2127,0.3353,0.1093,Europe,Eastern Europe,Estonia,2000
+2009,EE,0.2212,0.2996,0.0744,Europe,Eastern Europe,Estonia,2000
+2010,EE,0.2077,0.318,0.091,Europe,Eastern Europe,Estonia,2010
+2011,EE,0.2016,0.3464,0.1163,Europe,Eastern Europe,Estonia,2010
+2012,EE,0.1989,0.3657,0.1306,Europe,Eastern Europe,Estonia,2010
+2013,EE,0.1966,0.3539,0.1206,Europe,Eastern Europe,Estonia,2010
+2014,EE,0.1933,0.3551,0.1201,Europe,Eastern Europe,Estonia,2010
+2015,EE,0.2084,0.3169,0.0897,Europe,Eastern Europe,Estonia,2010
+2016,EE,0.2141,0.3152,0.0946,Europe,Eastern Europe,Estonia,2010
+2017,EE,0.2178,0.3176,0.1087,Europe,Eastern Europe,Estonia,2010
+2018,EE,0.2236,0.3192,0.1114,Europe,Eastern Europe,Estonia,2010
+2019,EE,0.2227,0.3176,0.103,Europe,Eastern Europe,Estonia,2010
+2020,EE,0.2253,0.3103,0.0957,Europe,Eastern Europe,Estonia,2020
+2021,EE,0.2251,0.311,0.0964,Europe,Eastern Europe,Estonia,2020
+1980,ES,0.1823,0.4182,0.1334,Europe,Western Europe,Spain,1980
+1981,ES,0.183,0.4166,0.1317,Europe,Western Europe,Spain,1980
+1982,ES,0.172,0.4057,0.1319,Europe,Western Europe,Spain,1980
+1983,ES,0.1885,0.3975,0.1298,Europe,Western Europe,Spain,1980
+1984,ES,0.1891,0.399,0.1269,Europe,Western Europe,Spain,1980
+1985,ES,0.1882,0.3842,0.1073,Europe,Western Europe,Spain,1980
+1986,ES,0.1808,0.3864,0.1135,Europe,Western Europe,Spain,1980
+1987,ES,0.1906,0.3856,0.1128,Europe,Western Europe,Spain,1980
+1988,ES,0.1844,0.3943,0.0994,Europe,Western Europe,Spain,1980
+1989,ES,0.1809,0.3861,0.1169,Europe,Western Europe,Spain,1980
+1990,ES,0.1849,0.3778,0.1121,Europe,Western Europe,Spain,1990
+1991,ES,0.1865,0.3765,0.1072,Europe,Western Europe,Spain,1990
+1992,ES,0.1879,0.3756,0.1095,Europe,Western Europe,Spain,1990
+1993,ES,0.1878,0.3787,0.1021,Europe,Western Europe,Spain,1990
+1994,ES,0.1909,0.3854,0.1068,Europe,Western Europe,Spain,1990
+1995,ES,0.1688,0.3947,0.1077,Europe,Western Europe,Spain,1990
+1996,ES,0.1929,0.3861,0.1059,Europe,Western Europe,Spain,1990
+1997,ES,0.193,0.38,0.0927,Europe,Western Europe,Spain,1990
+1998,ES,0.1762,0.3778,0.1051,Europe,Western Europe,Spain,1990
+1999,ES,0.1599,0.4333,0.1191,Europe,Western Europe,Spain,1990
+2000,ES,0.1812,0.3703,0.1071,Europe,Western Europe,Spain,2000
+2001,ES,0.1891,0.3577,0.0933,Europe,Western Europe,Spain,2000
+2002,ES,0.1805,0.3742,0.092,Europe,Western Europe,Spain,2000
+2003,ES,0.1899,0.3595,0.0873,Europe,Western Europe,Spain,2000
+2004,ES,0.1702,0.3693,0.0931,Europe,Western Europe,Spain,2000
+2005,ES,0.223,0.3121,0.0744,Europe,Western Europe,Spain,2000
+2006,ES,0.2334,0.3063,0.0681,Europe,Western Europe,Spain,2000
+2007,ES,0.2214,0.3164,0.0776,Europe,Western Europe,Spain,2000
+2008,ES,0.217,0.3318,0.0929,Europe,Western Europe,Spain,2000
+2009,ES,0.2259,0.3301,0.108,Europe,Western Europe,Spain,2000
+2010,ES,0.2326,0.3145,0.0981,Europe,Western Europe,Spain,2010
+2011,ES,0.2276,0.3142,0.0959,Europe,Western Europe,Spain,2010
+2012,ES,0.232,0.3189,0.1052,Europe,Western Europe,Spain,2010
+2013,ES,0.2232,0.3238,0.1053,Europe,Western Europe,Spain,2010
+2014,ES,0.2216,0.3252,0.1068,Europe,Western Europe,Spain,2010
+2015,ES,0.2215,0.3281,0.1099,Europe,Western Europe,Spain,2010
+2016,ES,0.2198,0.3275,0.1106,Europe,Western Europe,Spain,2010
+2017,ES,0.2223,0.327,0.1111,Europe,Western Europe,Spain,2010
+2018,ES,0.2242,0.3234,0.1091,Europe,Western Europe,Spain,2010
+2019,ES,0.2298,0.315,0.1049,Europe,Western Europe,Spain,2010
+2020,ES,0.2398,0.2897,0.0845,Europe,Western Europe,Spain,2020
+2021,ES,0.2251,0.3014,0.0821,Europe,Western Europe,Spain,2020
+2022,ES,0.2252,0.3012,0.082,Europe,Western Europe,Spain,2020
+1980,FI,0.297,0.2365,0.057,Europe,Western Europe,Finland,1980
+1981,FI,0.2947,0.2276,0.0438,Europe,Western Europe,Finland,1980
+1982,FI,0.2888,0.2314,0.0419,Europe,Western Europe,Finland,1980
+1983,FI,0.2926,0.2193,0.043,Europe,Western Europe,Finland,1980
+1984,FI,0.3102,0.2166,0.0514,Europe,Western Europe,Finland,1980
+1985,FI,0.3013,0.223,0.0459,Europe,Western Europe,Finland,1980
+1986,FI,0.3022,0.2196,0.0426,Europe,Western Europe,Finland,1980
+1987,FI,0.2985,0.2402,0.0618,Europe,Western Europe,Finland,1980
+1988,FI,0.2962,0.2373,0.0583,Europe,Western Europe,Finland,1980
+1989,FI,0.305,0.2239,0.0455,Europe,Western Europe,Finland,1980
+1990,FI,0.3132,0.2088,0.0335,Europe,Western Europe,Finland,1990
+1991,FI,0.2956,0.2095,0.0331,Europe,Western Europe,Finland,1990
+1992,FI,0.3001,0.2108,0.0315,Europe,Western Europe,Finland,1990
+1993,FI,0.3156,0.2118,0.0419,Europe,Western Europe,Finland,1990
+1994,FI,0.3001,0.2458,0.0633,Europe,Western Europe,Finland,1990
+1995,FI,0.2984,0.2555,0.0772,Europe,Western Europe,Finland,1990
+1996,FI,0.3028,0.2538,0.074,Europe,Western Europe,Finland,1990
+1997,FI,0.2933,0.2685,0.0865,Europe,Western Europe,Finland,1990
+1998,FI,0.2926,0.277,0.0933,Europe,Western Europe,Finland,1990
+1999,FI,0.2965,0.2801,0.1027,Europe,Western Europe,Finland,1990
+2000,FI,0.2645,0.3461,0.1448,Europe,Western Europe,Finland,2000
+2001,FI,0.2868,0.2885,0.1075,Europe,Western Europe,Finland,2000
+2002,FI,0.2919,0.2826,0.104,Europe,Western Europe,Finland,2000
+2003,FI,0.2949,0.2716,0.0931,Europe,Western Europe,Finland,2000
+2004,FI,0.2903,0.2844,0.1035,Europe,Western Europe,Finland,2000
+2005,FI,0.286,0.2763,0.0919,Europe,Western Europe,Finland,2000
+2006,FI,0.2825,0.2849,0.0985,Europe,Western Europe,Finland,2000
+2007,FI,0.2811,0.2869,0.1009,Europe,Western Europe,Finland,2000
+2008,FI,0.2742,0.2919,0.0953,Europe,Western Europe,Finland,2000
+2009,FI,0.2766,0.2783,0.0782,Europe,Western Europe,Finland,2000
+2010,FI,0.2718,0.2824,0.083,Europe,Western Europe,Finland,2010
+2011,FI,0.273,0.2783,0.0777,Europe,Western Europe,Finland,2010
+2012,FI,0.276,0.274,0.0747,Europe,Western Europe,Finland,2010
+2013,FI,0.2786,0.2718,0.0716,Europe,Western Europe,Finland,2010
+2014,FI,0.2759,0.2783,0.0776,Europe,Western Europe,Finland,2010
+2015,FI,0.2735,0.285,0.0817,Europe,Western Europe,Finland,2010
+2016,FI,0.2773,0.2831,0.0819,Europe,Western Europe,Finland,2010
+2017,FI,0.2728,0.2933,0.09,Europe,Western Europe,Finland,2010
+2018,FI,0.2721,0.2925,0.089,Europe,Western Europe,Finland,2010
+2019,FI,0.2765,0.282,0.0836,Europe,Western Europe,Finland,2010
+2020,FI,0.2719,0.2919,0.0936,Europe,Western Europe,Finland,2020
+2021,FI,0.2698,0.2964,0.0981,Europe,Western Europe,Finland,2020
+1980,GB,0.2954,0.2312,0.0446,Europe,Western Europe,United Kingdom,1980
+1981,GB,0.2954,0.2312,0.0446,Europe,Western Europe,United Kingdom,1980
+1982,GB,0.292,0.2361,0.047,Europe,Western Europe,United Kingdom,1980
+1983,GB,0.2886,0.235,0.0462,Europe,Western Europe,United Kingdom,1980
+1984,GB,0.2835,0.2466,0.0473,Europe,Western Europe,United Kingdom,1980
+1985,GB,0.2836,0.2424,0.0478,Europe,Western Europe,United Kingdom,1980
+1986,GB,0.2828,0.2415,0.0507,Europe,Western Europe,United Kingdom,1980
+1987,GB,0.2797,0.2449,0.0522,Europe,Western Europe,United Kingdom,1980
+1988,GB,0.2718,0.2597,0.0675,Europe,Western Europe,United Kingdom,1980
+1989,GB,0.2767,0.2519,0.0562,Europe,Western Europe,United Kingdom,1980
+1990,GB,0.2615,0.2705,0.065,Europe,Western Europe,United Kingdom,1990
+1991,GB,0.2574,0.2775,0.0686,Europe,Western Europe,United Kingdom,1990
+1992,GB,0.2601,0.2714,0.0623,Europe,Western Europe,United Kingdom,1990
+1993,GB,0.2577,0.2778,0.066,Europe,Western Europe,United Kingdom,1990
+1994,GB,0.2382,0.3095,0.0747,Europe,Western Europe,United Kingdom,1990
+1995,GB,0.2366,0.3198,0.0849,Europe,Western Europe,United Kingdom,1990
+1996,GB,0.2404,0.3311,0.0909,Europe,Western Europe,United Kingdom,1990
+1997,GB,0.2356,0.321,0.0967,Europe,Western Europe,United Kingdom,1990
+1998,GB,0.2296,0.3331,0.1043,Europe,Western Europe,United Kingdom,1990
+1999,GB,0.2035,0.3785,0.1099,Europe,Western Europe,United Kingdom,1990
+2000,GB,0.175,0.4852,0.2801,Europe,Western Europe,United Kingdom,2000
+2001,GB,0.21,0.3949,0.1684,Europe,Western Europe,United Kingdom,2000
+2002,GB,0.2266,0.3554,0.1188,Europe,Western Europe,United Kingdom,2000
+2003,GB,0.2425,0.357,0.1161,Europe,Western Europe,United Kingdom,2000
+2004,GB,0.2289,0.3506,0.1209,Europe,Western Europe,United Kingdom,2000
+2005,GB,0.25,0.3087,0.1039,Europe,Western Europe,United Kingdom,2000
+2006,GB,0.2476,0.3134,0.1012,Europe,Western Europe,United Kingdom,2000
+2007,GB,0.2524,0.3166,0.1067,Europe,Western Europe,United Kingdom,2000
+2008,GB,0.2516,0.3061,0.1019,Europe,Western Europe,United Kingdom,2000
+2009,GB,0.2466,0.3066,0.0886,Europe,Western Europe,United Kingdom,2000
+2010,GB,0.2727,0.2767,0.0795,Europe,Western Europe,United Kingdom,2010
+2011,GB,0.2669,0.287,0.0891,Europe,Western Europe,United Kingdom,2010
+2012,GB,0.26,0.2871,0.0847,Europe,Western Europe,United Kingdom,2010
+2013,GB,0.2676,0.2825,0.0747,Europe,Western Europe,United Kingdom,2010
+2014,GB,0.266,0.2864,0.0875,Europe,Western Europe,United Kingdom,2010
+2015,GB,0.2678,0.2764,0.08,Europe,Western Europe,United Kingdom,2010
+2016,GB,0.2702,0.2755,0.0797,Europe,Western Europe,United Kingdom,2010
+2017,GB,0.2644,0.2929,0.0913,Europe,Western Europe,United Kingdom,2010
+2018,GB,0.2609,0.2924,0.0881,Europe,Western Europe,United Kingdom,2010
+2019,GB,0.2632,0.291,0.0863,Europe,Western Europe,United Kingdom,2010
+2020,GB,0.2655,0.2877,0.0876,Europe,Western Europe,United Kingdom,2020
+2021,GB,0.2755,0.2672,0.0674,Europe,Western Europe,United Kingdom,2020
+2022,GB,0.2758,0.2664,0.0666,Europe,Western Europe,United Kingdom,2020
+1980,GR,0.1935,0.3297,0.0817,Europe,Western Europe,Greece,1980
+1981,GR,0.1826,0.3406,0.0852,Europe,Western Europe,Greece,1980
+1982,GR,0.1849,0.3352,0.0803,Europe,Western Europe,Greece,1980
+1983,GR,0.1921,0.3257,0.0733,Europe,Western Europe,Greece,1980
+1984,GR,0.1961,0.3195,0.0742,Europe,Western Europe,Greece,1980
+1985,GR,0.1907,0.3234,0.0769,Europe,Western Europe,Greece,1980
+1986,GR,0.1989,0.3045,0.0772,Europe,Western Europe,Greece,1980
+1987,GR,0.2039,0.3075,0.0761,Europe,Western Europe,Greece,1980
+1988,GR,0.2002,0.2906,0.0721,Europe,Western Europe,Greece,1980
+1989,GR,0.1908,0.29,0.076,Europe,Western Europe,Greece,1980
+1990,GR,0.1894,0.3028,0.0718,Europe,Western Europe,Greece,1990
+1991,GR,0.2007,0.296,0.0792,Europe,Western Europe,Greece,1990
+1992,GR,0.2032,0.3025,0.0792,Europe,Western Europe,Greece,1990
+1993,GR,0.1894,0.3195,0.0779,Europe,Western Europe,Greece,1990
+1994,GR,0.183,0.3268,0.0837,Europe,Western Europe,Greece,1990
+1995,GR,0.1806,0.3389,0.0934,Europe,Western Europe,Greece,1990
+1996,GR,0.1847,0.3241,0.0919,Europe,Western Europe,Greece,1990
+1997,GR,0.175,0.3482,0.0985,Europe,Western Europe,Greece,1990
+1998,GR,0.1711,0.3556,0.1033,Europe,Western Europe,Greece,1990
+1999,GR,0.1797,0.3524,0.1044,Europe,Western Europe,Greece,1990
+2000,GR,0.1676,0.3633,0.101,Europe,Western Europe,Greece,2000
+2001,GR,0.1681,0.3607,0.1036,Europe,Western Europe,Greece,2000
+2002,GR,0.1824,0.3403,0.0883,Europe,Western Europe,Greece,2000
+2003,GR,0.194,0.329,0.0925,Europe,Western Europe,Greece,2000
+2004,GR,0.193,0.3372,0.0971,Europe,Western Europe,Greece,2000
+2005,GR,0.1894,0.3448,0.0906,Europe,Western Europe,Greece,2000
+2006,GR,0.2101,0.3181,0.0883,Europe,Western Europe,Greece,2000
+2007,GR,0.2175,0.3079,0.08,Europe,Western Europe,Greece,2000
+2008,GR,0.2287,0.2941,0.072,Europe,Western Europe,Greece,2000
+2009,GR,0.2279,0.2931,0.0685,Europe,Western Europe,Greece,2000
+2010,GR,0.2089,0.3096,0.0759,Europe,Western Europe,Greece,2010
+2011,GR,0.2083,0.2913,0.0602,Europe,Western Europe,Greece,2010
+2012,GR,0.2137,0.294,0.0681,Europe,Western Europe,Greece,2010
+2013,GR,0.2351,0.3078,0.0888,Europe,Western Europe,Greece,2010
+2014,GR,0.1974,0.338,0.1095,Europe,Western Europe,Greece,2010
+2015,GR,0.2014,0.3314,0.1031,Europe,Western Europe,Greece,2010
+2016,GR,0.213,0.3146,0.0892,Europe,Western Europe,Greece,2010
+2017,GR,0.2191,0.3125,0.0905,Europe,Western Europe,Greece,2010
+2018,GR,0.2247,0.2979,0.0846,Europe,Western Europe,Greece,2010
+2019,GR,0.2268,0.2931,0.0816,Europe,Western Europe,Greece,2010
+2020,GR,0.2294,0.2873,0.077,Europe,Western Europe,Greece,2020
+2021,GR,0.2291,0.2878,0.0774,Europe,Western Europe,Greece,2020
+1983,HR,0.2459,0.2518,0.0373,Europe,Eastern Europe,Croatia,1980
+1984,HR,0.2402,0.2537,0.0359,Europe,Eastern Europe,Croatia,1980
+1985,HR,0.2376,0.2538,0.0373,Europe,Eastern Europe,Croatia,1980
+1986,HR,0.237,0.2527,0.0365,Europe,Eastern Europe,Croatia,1980
+1987,HR,0.2506,0.2435,0.0363,Europe,Eastern Europe,Croatia,1980
+1988,HR,0.2437,0.2429,0.0352,Europe,Eastern Europe,Croatia,1980
+1989,HR,0.2253,0.2749,0.0385,Europe,Eastern Europe,Croatia,1980
+1990,HR,0.2244,0.2775,0.0386,Europe,Eastern Europe,Croatia,1990
+1991,HR,0.2212,0.2918,0.05,Europe,Eastern Europe,Croatia,1990
+1992,HR,0.2235,0.2791,0.0506,Europe,Eastern Europe,Croatia,1990
+1993,HR,0.2182,0.2844,0.0541,Europe,Eastern Europe,Croatia,1990
+1994,HR,0.215,0.2915,0.057,Europe,Eastern Europe,Croatia,1990
+1995,HR,0.222,0.2826,0.0623,Europe,Eastern Europe,Croatia,1990
+1996,HR,0.2182,0.2903,0.0575,Europe,Eastern Europe,Croatia,1990
+1997,HR,0.218,0.2929,0.06,Europe,Eastern Europe,Croatia,1990
+1998,HR,0.2048,0.2906,0.0557,Europe,Eastern Europe,Croatia,1990
+1999,HR,0.1905,0.3092,0.0608,Europe,Eastern Europe,Croatia,1990
+2000,HR,0.2068,0.296,0.0609,Europe,Eastern Europe,Croatia,2000
+2001,HR,0.2086,0.2913,0.0609,Europe,Eastern Europe,Croatia,2000
+2002,HR,0.2208,0.2777,0.0586,Europe,Eastern Europe,Croatia,2000
+2003,HR,0.2251,0.2747,0.0587,Europe,Eastern Europe,Croatia,2000
+2004,HR,0.2245,0.2814,0.0605,Europe,Eastern Europe,Croatia,2000
+2005,HR,0.2172,0.2944,0.0686,Europe,Eastern Europe,Croatia,2000
+2006,HR,0.2213,0.293,0.0711,Europe,Eastern Europe,Croatia,2000
+2007,HR,0.2159,0.2986,0.073,Europe,Eastern Europe,Croatia,2000
+2008,HR,0.2181,0.2946,0.0725,Europe,Eastern Europe,Croatia,2000
+2009,HR,0.2201,0.2844,0.0626,Europe,Eastern Europe,Croatia,2000
+2010,HR,0.217,0.2876,0.0673,Europe,Eastern Europe,Croatia,2010
+2011,HR,0.2141,0.2976,0.0761,Europe,Eastern Europe,Croatia,2010
+2012,HR,0.2167,0.2888,0.0675,Europe,Eastern Europe,Croatia,2010
+2013,HR,0.2206,0.2974,0.0808,Europe,Eastern Europe,Croatia,2010
+2014,HR,0.2154,0.3025,0.0824,Europe,Eastern Europe,Croatia,2010
+2015,HR,0.2159,0.3049,0.088,Europe,Eastern Europe,Croatia,2010
+2016,HR,0.2213,0.2887,0.0743,Europe,Eastern Europe,Croatia,2010
+2017,HR,0.2174,0.2974,0.0805,Europe,Eastern Europe,Croatia,2010
+2018,HR,0.2215,0.2935,0.0784,Europe,Eastern Europe,Croatia,2010
+2019,HR,0.2226,0.2908,0.0754,Europe,Eastern Europe,Croatia,2010
+2020,HR,0.2233,0.2872,0.0719,Europe,Eastern Europe,Croatia,2020
+2021,HR,0.2232,0.2876,0.0722,Europe,Eastern Europe,Croatia,2020
+1980,HU,0.3997,0.1566,0.0229,Europe,Eastern Europe,Hungary,1980
+1981,HU,0.405,0.1548,0.0229,Europe,Eastern Europe,Hungary,1980
+1982,HU,0.4078,0.1537,0.0226,Europe,Eastern Europe,Hungary,1980
+1983,HU,0.4197,0.1487,0.0226,Europe,Eastern Europe,Hungary,1980
+1984,HU,0.4326,0.1442,0.0228,Europe,Eastern Europe,Hungary,1980
+1985,HU,0.4283,0.1479,0.0239,Europe,Eastern Europe,Hungary,1980
+1986,HU,0.4282,0.148,0.0243,Europe,Eastern Europe,Hungary,1980
+1987,HU,0.4174,0.1574,0.0284,Europe,Eastern Europe,Hungary,1980
+1988,HU,0.4076,0.1662,0.0321,Europe,Eastern Europe,Hungary,1980
+1989,HU,0.3818,0.1838,0.0375,Europe,Eastern Europe,Hungary,1980
+1990,HU,0.364,0.2015,0.044,Europe,Eastern Europe,Hungary,1990
+1991,HU,0.3307,0.221,0.0484,Europe,Eastern Europe,Hungary,1990
+1992,HU,0.3087,0.2374,0.0554,Europe,Eastern Europe,Hungary,1990
+1993,HU,0.3053,0.2408,0.057,Europe,Eastern Europe,Hungary,1990
+1994,HU,0.3029,0.2459,0.0603,Europe,Eastern Europe,Hungary,1990
+1995,HU,0.3234,0.2316,0.0578,Europe,Eastern Europe,Hungary,1990
+1996,HU,0.3246,0.2398,0.0647,Europe,Eastern Europe,Hungary,1990
+1997,HU,0.3211,0.2446,0.0665,Europe,Eastern Europe,Hungary,1990
+1998,HU,0.3207,0.246,0.068,Europe,Eastern Europe,Hungary,1990
+1999,HU,0.3052,0.2571,0.0717,Europe,Eastern Europe,Hungary,1990
+2000,HU,0.304,0.2521,0.0682,Europe,Eastern Europe,Hungary,2000
+2001,HU,0.3019,0.2582,0.074,Europe,Eastern Europe,Hungary,2000
+2002,HU,0.2898,0.2812,0.084,Europe,Eastern Europe,Hungary,2000
+2003,HU,0.2853,0.2821,0.0821,Europe,Eastern Europe,Hungary,2000
+2004,HU,0.2972,0.2717,0.0788,Europe,Eastern Europe,Hungary,2000
+2005,HU,0.2868,0.2915,0.0933,Europe,Eastern Europe,Hungary,2000
+2006,HU,0.2763,0.3031,0.102,Europe,Eastern Europe,Hungary,2000
+2007,HU,0.2764,0.2844,0.0841,Europe,Eastern Europe,Hungary,2000
+2008,HU,0.2844,0.2753,0.0815,Europe,Eastern Europe,Hungary,2000
+2009,HU,0.2832,0.275,0.0836,Europe,Eastern Europe,Hungary,2000
+2010,HU,0.263,0.3002,0.0957,Europe,Eastern Europe,Hungary,2010
+2011,HU,0.2665,0.2921,0.0904,Europe,Eastern Europe,Hungary,2010
+2012,HU,0.2644,0.2868,0.0835,Europe,Eastern Europe,Hungary,2010
+2013,HU,0.263,0.2988,0.0967,Europe,Eastern Europe,Hungary,2010
+2014,HU,0.2595,0.3018,0.0977,Europe,Eastern Europe,Hungary,2010
+2015,HU,0.2647,0.2962,0.0966,Europe,Eastern Europe,Hungary,2010
+2016,HU,0.2605,0.2989,0.0983,Europe,Eastern Europe,Hungary,2010
+2017,HU,0.2628,0.2993,0.0934,Europe,Eastern Europe,Hungary,2010
+2018,HU,0.2625,0.2942,0.0922,Europe,Eastern Europe,Hungary,2010
+2019,HU,0.2619,0.299,0.0968,Europe,Eastern Europe,Hungary,2010
+2020,HU,0.2644,0.2936,0.0918,Europe,Eastern Europe,Hungary,2020
+2021,HU,0.2642,0.2941,0.0922,Europe,Eastern Europe,Hungary,2020
+1980,IE,0.2773,0.2773,0.0743,Europe,Western Europe,Ireland,1980
+1981,IE,0.2856,0.2718,0.0728,Europe,Western Europe,Ireland,1980
+1982,IE,0.2698,0.2802,0.0745,Europe,Western Europe,Ireland,1980
+1983,IE,0.2651,0.2825,0.0752,Europe,Western Europe,Ireland,1980
+1984,IE,0.2774,0.2744,0.0726,Europe,Western Europe,Ireland,1980
+1985,IE,0.2779,0.2725,0.0715,Europe,Western Europe,Ireland,1980
+1986,IE,0.2805,0.2711,0.0711,Europe,Western Europe,Ireland,1980
+1987,IE,0.2761,0.2712,0.0713,Europe,Western Europe,Ireland,1980
+1988,IE,0.2826,0.2707,0.0716,Europe,Western Europe,Ireland,1980
+1989,IE,0.2877,0.2695,0.0727,Europe,Western Europe,Ireland,1980
+1990,IE,0.279,0.2777,0.0731,Europe,Western Europe,Ireland,1990
+1991,IE,0.2721,0.2792,0.0781,Europe,Western Europe,Ireland,1990
+1992,IE,0.2808,0.2831,0.0779,Europe,Western Europe,Ireland,1990
+1993,IE,0.2698,0.2837,0.0775,Europe,Western Europe,Ireland,1990
+1994,IE,0.2627,0.2907,0.0798,Europe,Western Europe,Ireland,1990
+1995,IE,0.265,0.2933,0.0821,Europe,Western Europe,Ireland,1990
+1996,IE,0.2813,0.2763,0.0763,Europe,Western Europe,Ireland,1990
+1997,IE,0.2796,0.2962,0.0895,Europe,Western Europe,Ireland,1990
+1998,IE,0.2711,0.3141,0.0989,Europe,Western Europe,Ireland,1990
+1999,IE,0.2671,0.3049,0.0927,Europe,Western Europe,Ireland,1990
+2000,IE,0.2597,0.3159,0.0987,Europe,Western Europe,Ireland,2000
+2001,IE,0.2649,0.3019,0.0889,Europe,Western Europe,Ireland,2000
+2002,IE,0.2712,0.3027,0.0954,Europe,Western Europe,Ireland,2000
+2003,IE,0.2618,0.3106,0.0978,Europe,Western Europe,Ireland,2000
+2004,IE,0.2561,0.3075,0.0961,Europe,Western Europe,Ireland,2000
+2005,IE,0.2605,0.3179,0.1043,Europe,Western Europe,Ireland,2000
+2006,IE,0.253,0.3283,0.1184,Europe,Western Europe,Ireland,2000
+2007,IE,0.2445,0.3026,0.0942,Europe,Western Europe,Ireland,2000
+2008,IE,0.2579,0.2627,0.0688,Europe,Western Europe,Ireland,2000
+2009,IE,0.2776,0.2687,0.0698,Europe,Western Europe,Ireland,2000
+2010,IE,0.268,0.27,0.0736,Europe,Western Europe,Ireland,2010
+2011,IE,0.2743,0.2726,0.0759,Europe,Western Europe,Ireland,2010
+2012,IE,0.2699,0.2569,0.0703,Europe,Western Europe,Ireland,2010
+2013,IE,0.2609,0.2784,0.0852,Europe,Western Europe,Ireland,2010
+2014,IE,0.2583,0.2825,0.0834,Europe,Western Europe,Ireland,2010
+2015,IE,0.2535,0.2899,0.0836,Europe,Western Europe,Ireland,2010
+2016,IE,0.2524,0.2981,0.0898,Europe,Western Europe,Ireland,2010
+2017,IE,0.2561,0.2847,0.08,Europe,Western Europe,Ireland,2010
+2018,IE,0.2612,0.2936,0.0857,Europe,Western Europe,Ireland,2010
+2019,IE,0.2552,0.3042,0.094,Europe,Western Europe,Ireland,2010
+2020,IE,0.2664,0.2821,0.0805,Europe,Western Europe,Ireland,2020
+2021,IE,0.2654,0.2842,0.0816,Europe,Western Europe,Ireland,2020
+1990,IS,0.2618,0.2719,0.0686,Europe,Western Europe,Iceland,1990
+1991,IS,0.2617,0.2725,0.0684,Europe,Western Europe,Iceland,1990
+1992,IS,0.262,0.2746,0.0711,Europe,Western Europe,Iceland,1990
+1993,IS,0.2626,0.2743,0.0696,Europe,Western Europe,Iceland,1990
+1994,IS,0.2628,0.2753,0.0696,Europe,Western Europe,Iceland,1990
+1995,IS,0.2642,0.2753,0.0697,Europe,Western Europe,Iceland,1990
+1996,IS,0.263,0.2761,0.0705,Europe,Western Europe,Iceland,1990
+1997,IS,0.2615,0.2773,0.0721,Europe,Western Europe,Iceland,1990
+1998,IS,0.2595,0.2784,0.0733,Europe,Western Europe,Iceland,1990
+1999,IS,0.2577,0.2814,0.0766,Europe,Western Europe,Iceland,1990
+2000,IS,0.2591,0.2815,0.0793,Europe,Western Europe,Iceland,2000
+2001,IS,0.2507,0.3037,0.1024,Europe,Western Europe,Iceland,2000
+2002,IS,0.249,0.3115,0.1111,Europe,Western Europe,Iceland,2000
+2003,IS,0.2565,0.3007,0.1062,Europe,Western Europe,Iceland,2000
+2004,IS,0.2646,0.2816,0.0854,Europe,Western Europe,Iceland,2000
+2005,IS,0.2532,0.2877,0.0979,Europe,Western Europe,Iceland,2000
+2006,IS,0.2285,0.3022,0.1022,Europe,Western Europe,Iceland,2000
+2007,IS,0.2198,0.3395,0.1445,Europe,Western Europe,Iceland,2000
+2008,IS,0.2406,0.2754,0.0728,Europe,Western Europe,Iceland,2000
+2009,IS,0.2779,0.2535,0.0629,Europe,Western Europe,Iceland,2000
+2010,IS,0.287,0.2404,0.0485,Europe,Western Europe,Iceland,2010
+2011,IS,0.2878,0.2438,0.0492,Europe,Western Europe,Iceland,2010
+2012,IS,0.289,0.2472,0.0533,Europe,Western Europe,Iceland,2010
+2013,IS,0.2785,0.2737,0.0783,Europe,Western Europe,Iceland,2010
+2014,IS,0.2821,0.2676,0.076,Europe,Western Europe,Iceland,2010
+2015,IS,0.2816,0.2668,0.0743,Europe,Western Europe,Iceland,2010
+2016,IS,0.2848,0.2636,0.0755,Europe,Western Europe,Iceland,2010
+2017,IS,0.2927,0.2627,0.0795,Europe,Western Europe,Iceland,2010
+2018,IS,0.2989,0.2516,0.0697,Europe,Western Europe,Iceland,2010
+2019,IS,0.3003,0.2512,0.07,Europe,Western Europe,Iceland,2010
+2020,IS,0.3003,0.2512,0.0705,Europe,Western Europe,Iceland,2020
+2021,IS,0.2984,0.2628,0.083,Europe,Western Europe,Iceland,2020
+1980,IT,0.2333,0.308,0.0976,Europe,Western Europe,Italy,1980
+1981,IT,0.2353,0.2942,0.0862,Europe,Western Europe,Italy,1980
+1982,IT,0.3536,0.1563,0.021,Europe,Western Europe,Italy,1980
+1983,IT,0.2404,0.2971,0.0931,Europe,Western Europe,Italy,1980
+1984,IT,0.2395,0.305,0.0986,Europe,Western Europe,Italy,1980
+1985,IT,0.2362,0.3181,0.1136,Europe,Western Europe,Italy,1980
+1986,IT,0.199,0.3272,0.1042,Europe,Western Europe,Italy,1980
+1987,IT,0.192,0.322,0.0889,Europe,Western Europe,Italy,1980
+1988,IT,0.1866,0.3292,0.098,Europe,Western Europe,Italy,1980
+1989,IT,0.1916,0.3339,0.0936,Europe,Western Europe,Italy,1980
+1990,IT,0.1927,0.3263,0.0969,Europe,Western Europe,Italy,1990
+1991,IT,0.1921,0.3295,0.0928,Europe,Western Europe,Italy,1990
+1992,IT,0.1866,0.3286,0.0799,Europe,Western Europe,Italy,1990
+1993,IT,0.1757,0.3346,0.0865,Europe,Western Europe,Italy,1990
+1994,IT,0.1677,0.3425,0.0896,Europe,Western Europe,Italy,1990
+1995,IT,0.1695,0.3473,0.1052,Europe,Western Europe,Italy,1990
+1996,IT,0.1641,0.3574,0.1036,Europe,Western Europe,Italy,1990
+1997,IT,0.1612,0.3609,0.0994,Europe,Western Europe,Italy,1990
+1998,IT,0.1527,0.3814,0.1123,Europe,Western Europe,Italy,1990
+1999,IT,0.1576,0.365,0.0929,Europe,Western Europe,Italy,1990
+2000,IT,0.1537,0.3843,0.1119,Europe,Western Europe,Italy,2000
+2001,IT,0.1544,0.394,0.1067,Europe,Western Europe,Italy,2000
+2002,IT,0.1594,0.3836,0.1119,Europe,Western Europe,Italy,2000
+2003,IT,0.1642,0.3731,0.1102,Europe,Western Europe,Italy,2000
+2004,IT,0.1707,0.3584,0.1016,Europe,Western Europe,Italy,2000
+2005,IT,0.1752,0.3496,0.0986,Europe,Western Europe,Italy,2000
+2006,IT,0.1755,0.351,0.1017,Europe,Western Europe,Italy,2000
+2007,IT,0.1802,0.3502,0.0978,Europe,Western Europe,Italy,2000
+2008,IT,0.1851,0.3321,0.0859,Europe,Western Europe,Italy,2000
+2009,IT,0.1881,0.3266,0.0849,Europe,Western Europe,Italy,2000
+2010,IT,0.1823,0.3397,0.0946,Europe,Western Europe,Italy,2010
+2011,IT,0.1797,0.3468,0.1062,Europe,Western Europe,Italy,2010
+2012,IT,0.1802,0.351,0.1127,Europe,Western Europe,Italy,2010
+2013,IT,0.1746,0.3536,0.1094,Europe,Western Europe,Italy,2010
+2014,IT,0.1765,0.3478,0.1138,Europe,Western Europe,Italy,2010
+2015,IT,0.1781,0.3406,0.1046,Europe,Western Europe,Italy,2010
+2016,IT,0.1742,0.3614,0.1256,Europe,Western Europe,Italy,2010
+2017,IT,0.1882,0.3658,0.1322,Europe,Western Europe,Italy,2010
+2018,IT,0.1644,0.3771,0.1366,Europe,Western Europe,Italy,2010
+2019,IT,0.1656,0.3739,0.1335,Europe,Western Europe,Italy,2010
+2020,IT,0.1677,0.368,0.1273,Europe,Western Europe,Italy,2020
+2021,IT,0.1604,0.3831,0.1369,Europe,Western Europe,Italy,2020
+2022,IT,0.1591,0.3866,0.1407,Europe,Western Europe,Italy,2020
+2003,KS,0.1889,0.3165,0.0733,Europe,Eastern Europe,Kosovo,2000
+2004,KS,0.1937,0.3132,0.07,Europe,Eastern Europe,Kosovo,2000
+2005,KS,0.1944,0.313,0.0673,Europe,Eastern Europe,Kosovo,2000
+2006,KS,0.1964,0.3118,0.0697,Europe,Eastern Europe,Kosovo,2000
+2007,KS,0.1959,0.3082,0.0644,Europe,Eastern Europe,Kosovo,2000
+2008,KS,0.1938,0.3139,0.0709,Europe,Eastern Europe,Kosovo,2000
+2009,KS,0.1967,0.3128,0.0655,Europe,Eastern Europe,Kosovo,2000
+2010,KS,0.1916,0.3195,0.0685,Europe,Eastern Europe,Kosovo,2010
+2011,KS,0.2014,0.3074,0.0713,Europe,Eastern Europe,Kosovo,2010
+2012,KS,0.1993,0.3096,0.0758,Europe,Eastern Europe,Kosovo,2010
+2013,KS,0.1979,0.3059,0.0763,Europe,Eastern Europe,Kosovo,2010
+2014,KS,0.1987,0.3129,0.0813,Europe,Eastern Europe,Kosovo,2010
+2015,KS,0.1922,0.3168,0.085,Europe,Eastern Europe,Kosovo,2010
+2016,KS,0.1943,0.3145,0.0816,Europe,Eastern Europe,Kosovo,2010
+2017,KS,0.1907,0.3208,0.0847,Europe,Eastern Europe,Kosovo,2010
+2018,KS,0.1908,0.3193,0.0829,Europe,Eastern Europe,Kosovo,2010
+2019,KS,0.1914,0.3169,0.0807,Europe,Eastern Europe,Kosovo,2010
+2020,KS,0.1911,0.3163,0.0798,Europe,Eastern Europe,Kosovo,2020
+2021,KS,0.1913,0.3165,0.0802,Europe,Eastern Europe,Kosovo,2020
+1988,LT,0.31,0.213,0.0368,Europe,Eastern Europe,Lithuania,1980
+1989,LT,0.2937,0.234,0.0447,Europe,Eastern Europe,Lithuania,1980
+1990,LT,0.2801,0.2542,0.0528,Europe,Eastern Europe,Lithuania,1990
+1991,LT,0.2662,0.2758,0.0621,Europe,Eastern Europe,Lithuania,1990
+1992,LT,0.25,0.2987,0.0718,Europe,Eastern Europe,Lithuania,1990
+1993,LT,0.2387,0.3169,0.0801,Europe,Eastern Europe,Lithuania,1990
+1994,LT,0.202,0.3341,0.0893,Europe,Eastern Europe,Lithuania,1990
+1995,LT,0.2151,0.3189,0.0809,Europe,Eastern Europe,Lithuania,1990
+1996,LT,0.2229,0.3141,0.0809,Europe,Eastern Europe,Lithuania,1990
+1997,LT,0.2401,0.3005,0.0773,Europe,Eastern Europe,Lithuania,1990
+1998,LT,0.2334,0.2931,0.0684,Europe,Eastern Europe,Lithuania,1990
+1999,LT,0.2379,0.2886,0.0655,Europe,Eastern Europe,Lithuania,1990
+2000,LT,0.2228,0.3056,0.0748,Europe,Eastern Europe,Lithuania,2000
+2001,LT,0.2204,0.3096,0.0778,Europe,Eastern Europe,Lithuania,2000
+2002,LT,0.2253,0.3019,0.072,Europe,Eastern Europe,Lithuania,2000
+2003,LT,0.239,0.3053,0.0797,Europe,Eastern Europe,Lithuania,2000
+2004,LT,0.2142,0.3182,0.0766,Europe,Eastern Europe,Lithuania,2000
+2005,LT,0.2117,0.3252,0.0835,Europe,Eastern Europe,Lithuania,2000
+2006,LT,0.2183,0.3057,0.0729,Europe,Eastern Europe,Lithuania,2000
+2007,LT,0.21,0.3462,0.1056,Europe,Eastern Europe,Lithuania,2000
+2008,LT,0.2043,0.3546,0.109,Europe,Eastern Europe,Lithuania,2000
+2009,LT,0.2041,0.3476,0.0979,Europe,Eastern Europe,Lithuania,2000
+2010,LT,0.2226,0.3211,0.0826,Europe,Eastern Europe,Lithuania,2010
+2011,LT,0.2222,0.3258,0.0883,Europe,Eastern Europe,Lithuania,2010
+2012,LT,0.2154,0.3506,0.1079,Europe,Eastern Europe,Lithuania,2010
+2013,LT,0.21,0.363,0.1161,Europe,Eastern Europe,Lithuania,2010
+2014,LT,0.1907,0.394,0.1385,Europe,Eastern Europe,Lithuania,2010
+2015,LT,0.203,0.3569,0.109,Europe,Eastern Europe,Lithuania,2010
+2016,LT,0.2068,0.3524,0.104,Europe,Eastern Europe,Lithuania,2010
+2017,LT,0.2027,0.3648,0.117,Europe,Eastern Europe,Lithuania,2010
+2018,LT,0.2119,0.3531,0.1101,Europe,Eastern Europe,Lithuania,2010
+2019,LT,0.0368,0.4658,0.1329,Europe,Eastern Europe,Lithuania,2010
+2020,LT,0.0358,0.463,0.1299,Europe,Eastern Europe,Lithuania,2020
+2021,LT,0.0359,0.4633,0.1302,Europe,Eastern Europe,Lithuania,2020
+1985,LU,0.2771,0.2702,0.073,Europe,Western Europe,Luxembourg,1980
+1986,LU,0.2765,0.2735,0.0759,Europe,Western Europe,Luxembourg,1980
+1987,LU,0.2742,0.2789,0.0773,Europe,Western Europe,Luxembourg,1980
+1988,LU,0.2727,0.2776,0.0769,Europe,Western Europe,Luxembourg,1980
+1989,LU,0.2759,0.279,0.0783,Europe,Western Europe,Luxembourg,1980
+1990,LU,0.2739,0.282,0.0811,Europe,Western Europe,Luxembourg,1990
+1991,LU,0.2716,0.2858,0.0788,Europe,Western Europe,Luxembourg,1990
+1992,LU,0.2732,0.2827,0.0778,Europe,Western Europe,Luxembourg,1990
+1993,LU,0.271,0.282,0.0777,Europe,Western Europe,Luxembourg,1990
+1994,LU,0.2738,0.281,0.0782,Europe,Western Europe,Luxembourg,1990
+1995,LU,0.2647,0.2909,0.0812,Europe,Western Europe,Luxembourg,1990
+1996,LU,0.2595,0.3017,0.0842,Europe,Western Europe,Luxembourg,1990
+1997,LU,0.2591,0.2959,0.0907,Europe,Western Europe,Luxembourg,1990
+1998,LU,0.2362,0.3349,0.1069,Europe,Western Europe,Luxembourg,1990
+1999,LU,0.2458,0.3228,0.1039,Europe,Western Europe,Luxembourg,1990
+2000,LU,0.2406,0.3279,0.1135,Europe,Western Europe,Luxembourg,2000
+2001,LU,0.2432,0.3232,0.1036,Europe,Western Europe,Luxembourg,2000
+2002,LU,0.2565,0.2938,0.0787,Europe,Western Europe,Luxembourg,2000
+2003,LU,0.2575,0.2921,0.0803,Europe,Western Europe,Luxembourg,2000
+2004,LU,0.2451,0.3357,0.1264,Europe,Western Europe,Luxembourg,2000
+2005,LU,0.2274,0.3537,0.1307,Europe,Western Europe,Luxembourg,2000
+2006,LU,0.2421,0.3167,0.0978,Europe,Western Europe,Luxembourg,2000
+2007,LU,0.2276,0.3586,0.139,Europe,Western Europe,Luxembourg,2000
+2008,LU,0.2304,0.3419,0.1286,Europe,Western Europe,Luxembourg,2000
+2009,LU,0.2505,0.2997,0.0924,Europe,Western Europe,Luxembourg,2000
+2010,LU,0.2546,0.2878,0.08,Europe,Western Europe,Luxembourg,2010
+2011,LU,0.255,0.279,0.0754,Europe,Western Europe,Luxembourg,2010
+2012,LU,0.2308,0.3314,0.122,Europe,Western Europe,Luxembourg,2010
+2013,LU,0.2448,0.2957,0.0875,Europe,Western Europe,Luxembourg,2010
+2014,LU,0.2352,0.3151,0.1055,Europe,Western Europe,Luxembourg,2010
+2015,LU,0.242,0.2774,0.0638,Europe,Western Europe,Luxembourg,2010
+2016,LU,0.2374,0.2801,0.068,Europe,Western Europe,Luxembourg,2010
+2017,LU,0.2267,0.3015,0.0779,Europe,Western Europe,Luxembourg,2010
+2018,LU,0.2195,0.3087,0.0784,Europe,Western Europe,Luxembourg,2010
+2019,LU,0.2189,0.2941,0.0725,Europe,Western Europe,Luxembourg,2010
+2020,LU,0.2226,0.3065,0.0884,Europe,Western Europe,Luxembourg,2020
+2021,LU,0.2236,0.304,0.0859,Europe,Western Europe,Luxembourg,2020
+1988,LV,0.3109,0.2041,0.0335,Europe,Eastern Europe,Latvia,1980
+1989,LV,0.3021,0.2111,0.0357,Europe,Eastern Europe,Latvia,1980
+1990,LV,0.2943,0.2183,0.0383,Europe,Eastern Europe,Latvia,1990
+1991,LV,0.2851,0.2306,0.0434,Europe,Eastern Europe,Latvia,1990
+1992,LV,0.2686,0.2437,0.0499,Europe,Eastern Europe,Latvia,1990
+1993,LV,0.2507,0.2648,0.054,Europe,Eastern Europe,Latvia,1990
+1994,LV,0.239,0.2835,0.0683,Europe,Eastern Europe,Latvia,1990
+1995,LV,0.2239,0.3054,0.0816,Europe,Eastern Europe,Latvia,1990
+1996,LV,0.204,0.3234,0.0882,Europe,Eastern Europe,Latvia,1990
+1997,LV,0.2035,0.3208,0.083,Europe,Eastern Europe,Latvia,1990
+1998,LV,0.1964,0.3335,0.0888,Europe,Eastern Europe,Latvia,1990
+1999,LV,0.2011,0.324,0.082,Europe,Eastern Europe,Latvia,1990
+2000,LV,0.1962,0.3365,0.0879,Europe,Eastern Europe,Latvia,2000
+2001,LV,0.1959,0.3354,0.0858,Europe,Eastern Europe,Latvia,2000
+2002,LV,0.1921,0.3476,0.0925,Europe,Eastern Europe,Latvia,2000
+2003,LV,0.1776,0.3579,0.1007,Europe,Eastern Europe,Latvia,2000
+2004,LV,0.1972,0.3529,0.0968,Europe,Eastern Europe,Latvia,2000
+2005,LV,0.186,0.3665,0.105,Europe,Eastern Europe,Latvia,2000
+2006,LV,0.1963,0.33,0.0837,Europe,Eastern Europe,Latvia,2000
+2007,LV,0.181,0.3507,0.0907,Europe,Eastern Europe,Latvia,2000
+2008,LV,0.1927,0.3399,0.0908,Europe,Eastern Europe,Latvia,2000
+2009,LV,0.1988,0.3555,0.1044,Europe,Eastern Europe,Latvia,2000
+2010,LV,0.2109,0.3361,0.0866,Europe,Eastern Europe,Latvia,2010
+2011,LV,0.2073,0.3449,0.0939,Europe,Eastern Europe,Latvia,2010
+2012,LV,0.206,0.3453,0.0995,Europe,Eastern Europe,Latvia,2010
+2013,LV,0.2027,0.3493,0.1041,Europe,Eastern Europe,Latvia,2010
+2014,LV,0.2053,0.3401,0.0922,Europe,Eastern Europe,Latvia,2010
+2015,LV,0.2107,0.3254,0.0834,Europe,Eastern Europe,Latvia,2010
+2016,LV,0.2155,0.308,0.0688,Europe,Eastern Europe,Latvia,2010
+2017,LV,0.2067,0.3285,0.083,Europe,Eastern Europe,Latvia,2010
+2018,LV,0.2091,0.3201,0.083,Europe,Eastern Europe,Latvia,2010
+2019,LV,0.2066,0.3252,0.086,Europe,Eastern Europe,Latvia,2010
+2020,LV,0.2248,0.3066,0.075,Europe,Eastern Europe,Latvia,2020
+2021,LV,0.2234,0.3082,0.0761,Europe,Eastern Europe,Latvia,2020
+1988,MD,0.2904,0.2237,0.043,Europe,Eastern Europe,Moldova,1980
+1989,MD,0.2752,0.2396,0.0503,Europe,Eastern Europe,Moldova,1980
+1990,MD,0.2596,0.2545,0.0551,Europe,Eastern Europe,Moldova,1990
+1991,MD,0.2434,0.27,0.0612,Europe,Eastern Europe,Moldova,1990
+1992,MD,0.2254,0.2861,0.0671,Europe,Eastern Europe,Moldova,1990
+1993,MD,0.2089,0.3015,0.0735,Europe,Eastern Europe,Moldova,1990
+1994,MD,0.1967,0.3149,0.0778,Europe,Eastern Europe,Moldova,1990
+1995,MD,0.184,0.3284,0.0821,Europe,Eastern Europe,Moldova,1990
+1996,MD,0.1698,0.3433,0.0871,Europe,Eastern Europe,Moldova,1990
+1997,MD,0.1587,0.3564,0.091,Europe,Eastern Europe,Moldova,1990
+1998,MD,0.1702,0.3327,0.0781,Europe,Eastern Europe,Moldova,1990
+1999,MD,0.1737,0.3287,0.076,Europe,Eastern Europe,Moldova,1990
+2000,MD,0.1763,0.3272,0.0764,Europe,Eastern Europe,Moldova,2000
+2001,MD,0.1753,0.3302,0.076,Europe,Eastern Europe,Moldova,2000
+2002,MD,0.1773,0.3264,0.0756,Europe,Eastern Europe,Moldova,2000
+2003,MD,0.1748,0.3322,0.0811,Europe,Eastern Europe,Moldova,2000
+2004,MD,0.1809,0.3262,0.0771,Europe,Eastern Europe,Moldova,2000
+2005,MD,0.1783,0.3302,0.08,Europe,Eastern Europe,Moldova,2000
+2006,MD,0.1782,0.3289,0.0803,Europe,Eastern Europe,Moldova,2000
+2007,MD,0.1805,0.3289,0.0804,Europe,Eastern Europe,Moldova,2000
+2008,MD,0.1788,0.3332,0.0879,Europe,Eastern Europe,Moldova,2000
+2009,MD,0.1798,0.3369,0.0911,Europe,Eastern Europe,Moldova,2000
+2010,MD,0.182,0.3302,0.0869,Europe,Eastern Europe,Moldova,2010
+2011,MD,0.1826,0.3313,0.0924,Europe,Eastern Europe,Moldova,2010
+2012,MD,0.1805,0.3297,0.0923,Europe,Eastern Europe,Moldova,2010
+2013,MD,0.1816,0.3252,0.087,Europe,Eastern Europe,Moldova,2010
+2014,MD,0.18,0.3252,0.0892,Europe,Eastern Europe,Moldova,2010
+2015,MD,0.1776,0.3309,0.0937,Europe,Eastern Europe,Moldova,2010
+2016,MD,0.1811,0.3261,0.0915,Europe,Eastern Europe,Moldova,2010
+2017,MD,0.1825,0.3235,0.0907,Europe,Eastern Europe,Moldova,2010
+2018,MD,0.1828,0.3262,0.0918,Europe,Eastern Europe,Moldova,2010
+2019,MD,0.182,0.3293,0.0948,Europe,Eastern Europe,Moldova,2010
+2020,MD,0.1823,0.3288,0.0943,Europe,Eastern Europe,Moldova,2020
+2021,MD,0.1822,0.3289,0.0943,Europe,Eastern Europe,Moldova,2020
+1980,ME,0.2484,0.2627,0.0626,Europe,Eastern Europe,Montenegro,1980
+1981,ME,0.2484,0.2627,0.0626,Europe,Eastern Europe,Montenegro,1980
+1982,ME,0.2484,0.2627,0.0626,Europe,Eastern Europe,Montenegro,1980
+1983,ME,0.2485,0.2626,0.0626,Europe,Eastern Europe,Montenegro,1980
+1984,ME,0.2428,0.2697,0.0664,Europe,Eastern Europe,Montenegro,1980
+1985,ME,0.2441,0.2655,0.0636,Europe,Eastern Europe,Montenegro,1980
+1986,ME,0.2385,0.2606,0.0573,Europe,Eastern Europe,Montenegro,1980
+1987,ME,0.2394,0.2679,0.0632,Europe,Eastern Europe,Montenegro,1980
+1988,ME,0.2215,0.281,0.0679,Europe,Eastern Europe,Montenegro,1980
+1989,ME,0.2445,0.2568,0.0569,Europe,Eastern Europe,Montenegro,1980
+1990,ME,0.2474,0.255,0.0566,Europe,Eastern Europe,Montenegro,1990
+1991,ME,0.2486,0.2559,0.0564,Europe,Eastern Europe,Montenegro,1990
+1992,ME,0.249,0.2582,0.0573,Europe,Eastern Europe,Montenegro,1990
+1993,ME,0.2489,0.2611,0.0589,Europe,Eastern Europe,Montenegro,1990
+1994,ME,0.2488,0.2644,0.061,Europe,Eastern Europe,Montenegro,1990
+1995,ME,0.2483,0.2684,0.0639,Europe,Eastern Europe,Montenegro,1990
+1996,ME,0.2489,0.2683,0.0627,Europe,Eastern Europe,Montenegro,1990
+1997,ME,0.2493,0.2686,0.0619,Europe,Eastern Europe,Montenegro,1990
+1998,ME,0.2501,0.2728,0.0646,Europe,Eastern Europe,Montenegro,1990
+1999,ME,0.263,0.2544,0.0532,Europe,Eastern Europe,Montenegro,1990
+2000,ME,0.2244,0.3123,0.0815,Europe,Eastern Europe,Montenegro,2000
+2001,ME,0.2512,0.2817,0.0728,Europe,Eastern Europe,Montenegro,2000
+2002,ME,0.2413,0.2869,0.0746,Europe,Eastern Europe,Montenegro,2000
+2003,ME,0.2296,0.2965,0.0773,Europe,Eastern Europe,Montenegro,2000
+2004,ME,0.22,0.3009,0.075,Europe,Eastern Europe,Montenegro,2000
+2005,ME,0.2048,0.3088,0.0732,Europe,Eastern Europe,Montenegro,2000
+2006,ME,0.2013,0.3079,0.0742,Europe,Eastern Europe,Montenegro,2000
+2007,ME,0.1981,0.3097,0.074,Europe,Eastern Europe,Montenegro,2000
+2008,ME,0.1939,0.3137,0.0731,Europe,Eastern Europe,Montenegro,2000
+2009,ME,0.1891,0.3173,0.0765,Europe,Eastern Europe,Montenegro,2000
+2010,ME,0.1847,0.3224,0.0781,Europe,Eastern Europe,Montenegro,2010
+2011,ME,0.1802,0.3274,0.0795,Europe,Eastern Europe,Montenegro,2010
+2012,ME,0.178,0.3268,0.0789,Europe,Eastern Europe,Montenegro,2010
+2013,ME,0.1839,0.3222,0.0732,Europe,Eastern Europe,Montenegro,2010
+2014,ME,0.1861,0.3154,0.0723,Europe,Eastern Europe,Montenegro,2010
+2015,ME,0.1706,0.3345,0.085,Europe,Eastern Europe,Montenegro,2010
+2016,ME,0.1809,0.3318,0.0843,Europe,Eastern Europe,Montenegro,2010
+2017,ME,0.189,0.3113,0.0664,Europe,Eastern Europe,Montenegro,2010
+2018,ME,0.1866,0.3099,0.0648,Europe,Eastern Europe,Montenegro,2010
+2019,ME,0.1872,0.3076,0.0623,Europe,Eastern Europe,Montenegro,2010
+2020,ME,0.1869,0.307,0.0614,Europe,Eastern Europe,Montenegro,2020
+2021,ME,0.187,0.3072,0.0618,Europe,Eastern Europe,Montenegro,2020
+1983,MK,0.2758,0.2507,0.0657,Europe,Eastern Europe,North Macedonia,1980
+1984,MK,0.2703,0.2584,0.07,Europe,Eastern Europe,North Macedonia,1980
+1985,MK,0.2719,0.2538,0.0671,Europe,Eastern Europe,North Macedonia,1980
+1986,MK,0.2681,0.2482,0.0602,Europe,Eastern Europe,North Macedonia,1980
+1987,MK,0.2678,0.2565,0.0671,Europe,Eastern Europe,North Macedonia,1980
+1988,MK,0.2536,0.2692,0.0718,Europe,Eastern Europe,North Macedonia,1980
+1989,MK,0.2731,0.2448,0.0599,Europe,Eastern Europe,North Macedonia,1980
+1990,MK,0.2757,0.2427,0.0594,Europe,Eastern Europe,North Macedonia,1990
+1991,MK,0.2635,0.2475,0.0595,Europe,Eastern Europe,North Macedonia,1990
+1992,MK,0.2506,0.2536,0.0605,Europe,Eastern Europe,North Macedonia,1990
+1993,MK,0.2373,0.2602,0.0623,Europe,Eastern Europe,North Macedonia,1990
+1994,MK,0.2241,0.267,0.0646,Europe,Eastern Europe,North Macedonia,1990
+1995,MK,0.2105,0.2747,0.0676,Europe,Eastern Europe,North Macedonia,1990
+1996,MK,0.1694,0.3277,0.0885,Europe,Eastern Europe,North Macedonia,1990
+1997,MK,0.2054,0.3089,0.0831,Europe,Eastern Europe,North Macedonia,1990
+1998,MK,0.2041,0.2747,0.0641,Europe,Eastern Europe,North Macedonia,1990
+1999,MK,0.2034,0.27,0.06,Europe,Eastern Europe,North Macedonia,1990
+2000,MK,0.208,0.2602,0.0614,Europe,Eastern Europe,North Macedonia,2000
+2001,MK,0.2029,0.2758,0.0731,Europe,Eastern Europe,North Macedonia,2000
+2002,MK,0.2041,0.2607,0.0584,Europe,Eastern Europe,North Macedonia,2000
+2003,MK,0.1998,0.2717,0.0619,Europe,Eastern Europe,North Macedonia,2000
+2004,MK,0.1966,0.2741,0.0599,Europe,Eastern Europe,North Macedonia,2000
+2005,MK,0.1907,0.2793,0.059,Europe,Eastern Europe,North Macedonia,2000
+2006,MK,0.1955,0.2805,0.0575,Europe,Eastern Europe,North Macedonia,2000
+2007,MK,0.1934,0.2837,0.0574,Europe,Eastern Europe,North Macedonia,2000
+2008,MK,0.1929,0.2934,0.0604,Europe,Eastern Europe,North Macedonia,2000
+2009,MK,0.1936,0.298,0.0613,Europe,Eastern Europe,North Macedonia,2000
+2010,MK,0.1952,0.3038,0.0646,Europe,Eastern Europe,North Macedonia,2010
+2011,MK,0.1985,0.3023,0.0618,Europe,Eastern Europe,North Macedonia,2010
+2012,MK,0.2147,0.2902,0.0609,Europe,Eastern Europe,North Macedonia,2010
+2013,MK,0.221,0.283,0.0628,Europe,Eastern Europe,North Macedonia,2010
+2014,MK,0.236,0.2728,0.0578,Europe,Eastern Europe,North Macedonia,2010
+2015,MK,0.2362,0.2733,0.0621,Europe,Eastern Europe,North Macedonia,2010
+2016,MK,0.2414,0.2647,0.0588,Europe,Eastern Europe,North Macedonia,2010
+2017,MK,0.2446,0.2653,0.0644,Europe,Eastern Europe,North Macedonia,2010
+2018,MK,0.2521,0.2517,0.0522,Europe,Eastern Europe,North Macedonia,2010
+2019,MK,0.2532,0.2486,0.0491,Europe,Eastern Europe,North Macedonia,2010
+2020,MK,0.2532,0.2475,0.0481,Europe,Eastern Europe,North Macedonia,2020
+2021,MK,0.2532,0.248,0.0485,Europe,Eastern Europe,North Macedonia,2020
+2006,MT,0.2628,0.2535,0.0523,Europe,Western Europe,Malta,2000
+2007,MT,0.2587,0.2537,0.0515,Europe,Western Europe,Malta,2000
+2008,MT,0.2635,0.2665,0.0585,Europe,Western Europe,Malta,2000
+2009,MT,0.2529,0.2802,0.0684,Europe,Western Europe,Malta,2000
+2010,MT,0.2548,0.2694,0.0649,Europe,Western Europe,Malta,2010
+2011,MT,0.2543,0.2828,0.0779,Europe,Western Europe,Malta,2010
+2012,MT,0.2497,0.291,0.0825,Europe,Western Europe,Malta,2010
+2013,MT,0.251,0.292,0.0812,Europe,Western Europe,Malta,2010
+2014,MT,0.2466,0.2975,0.0831,Europe,Western Europe,Malta,2010
+2015,MT,0.2407,0.3031,0.0836,Europe,Western Europe,Malta,2010
+2016,MT,0.247,0.2945,0.0782,Europe,Western Europe,Malta,2010
+2017,MT,0.2416,0.3026,0.0861,Europe,Western Europe,Malta,2010
+2018,MT,0.2429,0.2991,0.0754,Europe,Western Europe,Malta,2010
+2019,MT,0.2367,0.3079,0.083,Europe,Western Europe,Malta,2010
+2020,MT,0.2384,0.3046,0.08,Europe,Western Europe,Malta,2020
+2021,MT,0.238,0.3056,0.0811,Europe,Western Europe,Malta,2020
+1980,NL,0.3027,0.2315,0.0504,Europe,Western Europe,Netherlands,1980
+1981,NL,0.3025,0.2312,0.0499,Europe,Western Europe,Netherlands,1980
+1982,NL,0.3024,0.2315,0.0498,Europe,Western Europe,Netherlands,1980
+1983,NL,0.2905,0.2366,0.051,Europe,Western Europe,Netherlands,1980
+1984,NL,0.2906,0.2352,0.0499,Europe,Western Europe,Netherlands,1980
+1985,NL,0.29,0.2355,0.0487,Europe,Western Europe,Netherlands,1980
+1986,NL,0.2922,0.2376,0.0503,Europe,Western Europe,Netherlands,1980
+1987,NL,0.2917,0.2345,0.0502,Europe,Western Europe,Netherlands,1980
+1988,NL,0.297,0.233,0.0502,Europe,Western Europe,Netherlands,1980
+1989,NL,0.2963,0.2312,0.0473,Europe,Western Europe,Netherlands,1980
+1990,NL,0.2928,0.232,0.0483,Europe,Western Europe,Netherlands,1990
+1991,NL,0.2912,0.2325,0.0488,Europe,Western Europe,Netherlands,1990
+1992,NL,0.2941,0.2331,0.0496,Europe,Western Europe,Netherlands,1990
+1993,NL,0.2919,0.2288,0.0468,Europe,Western Europe,Netherlands,1990
+1994,NL,0.2918,0.2313,0.047,Europe,Western Europe,Netherlands,1990
+1995,NL,0.2903,0.2341,0.049,Europe,Western Europe,Netherlands,1990
+1996,NL,0.2919,0.2344,0.0501,Europe,Western Europe,Netherlands,1990
+1997,NL,0.2955,0.2321,0.0497,Europe,Western Europe,Netherlands,1990
+1998,NL,0.2987,0.232,0.0484,Europe,Western Europe,Netherlands,1990
+1999,NL,0.2942,0.2333,0.0483,Europe,Western Europe,Netherlands,1990
+2000,NL,0.2973,0.234,0.0511,Europe,Western Europe,Netherlands,2000
+2001,NL,0.2919,0.2422,0.0548,Europe,Western Europe,Netherlands,2000
+2002,NL,0.2897,0.2413,0.0555,Europe,Western Europe,Netherlands,2000
+2003,NL,0.2853,0.2456,0.0558,Europe,Western Europe,Netherlands,2000
+2004,NL,0.2866,0.243,0.0545,Europe,Western Europe,Netherlands,2000
+2005,NL,0.2918,0.2423,0.0558,Europe,Western Europe,Netherlands,2000
+2006,NL,0.283,0.2552,0.0636,Europe,Western Europe,Netherlands,2000
+2007,NL,0.277,0.2654,0.0647,Europe,Western Europe,Netherlands,2000
+2008,NL,0.2927,0.2405,0.0541,Europe,Western Europe,Netherlands,2000
+2009,NL,0.2907,0.2416,0.0531,Europe,Western Europe,Netherlands,2000
+2010,NL,0.2859,0.2479,0.0545,Europe,Western Europe,Netherlands,2010
+2011,NL,0.2773,0.2533,0.0574,Europe,Western Europe,Netherlands,2010
+2012,NL,0.2831,0.2504,0.055,Europe,Western Europe,Netherlands,2010
+2013,NL,0.2752,0.2403,0.0515,Europe,Western Europe,Netherlands,2010
+2014,NL,0.2754,0.242,0.0543,Europe,Western Europe,Netherlands,2010
+2015,NL,0.2715,0.2467,0.0559,Europe,Western Europe,Netherlands,2010
+2016,NL,0.2718,0.244,0.0544,Europe,Western Europe,Netherlands,2010
+2017,NL,0.269,0.2507,0.0568,Europe,Western Europe,Netherlands,2010
+2018,NL,0.2698,0.2499,0.057,Europe,Western Europe,Netherlands,2010
+2019,NL,0.2731,0.2458,0.0552,Europe,Western Europe,Netherlands,2010
+2020,NL,0.2747,0.2428,0.0539,Europe,Western Europe,Netherlands,2020
+2021,NL,0.2743,0.2436,0.0542,Europe,Western Europe,Netherlands,2020
+1980,NO,0.3187,0.2213,0.0508,Europe,Western Europe,Norway,1980
+1981,NO,0.32,0.2216,0.0501,Europe,Western Europe,Norway,1980
+1982,NO,0.3239,0.2123,0.0477,Europe,Western Europe,Norway,1980
+1983,NO,0.3271,0.2091,0.0439,Europe,Western Europe,Norway,1980
+1984,NO,0.3281,0.2123,0.0504,Europe,Western Europe,Norway,1980
+1985,NO,0.3277,0.2129,0.0497,Europe,Western Europe,Norway,1980
+1986,NO,0.3368,0.1999,0.0423,Europe,Western Europe,Norway,1980
+1987,NO,0.338,0.199,0.0416,Europe,Western Europe,Norway,1980
+1988,NO,0.3362,0.1954,0.0394,Europe,Western Europe,Norway,1980
+1989,NO,0.3455,0.1973,0.0426,Europe,Western Europe,Norway,1980
+1990,NO,0.3424,0.1963,0.042,Europe,Western Europe,Norway,1990
+1991,NO,0.3394,0.2048,0.0458,Europe,Western Europe,Norway,1990
+1992,NO,0.3466,0.2012,0.0501,Europe,Western Europe,Norway,1990
+1993,NO,0.333,0.2211,0.0624,Europe,Western Europe,Norway,1990
+1994,NO,0.3213,0.2304,0.0661,Europe,Western Europe,Norway,1990
+1995,NO,0.3232,0.2263,0.0632,Europe,Western Europe,Norway,1990
+1996,NO,0.3089,0.2509,0.0714,Europe,Western Europe,Norway,1990
+1997,NO,0.3029,0.2588,0.0856,Europe,Western Europe,Norway,1990
+1998,NO,0.314,0.243,0.0762,Europe,Western Europe,Norway,1990
+1999,NO,0.3137,0.2475,0.0775,Europe,Western Europe,Norway,1990
+2000,NO,0.3033,0.2685,0.1043,Europe,Western Europe,Norway,2000
+2001,NO,0.3167,0.2414,0.0751,Europe,Western Europe,Norway,2000
+2002,NO,0.3138,0.2521,0.0897,Europe,Western Europe,Norway,2000
+2003,NO,0.3114,0.254,0.0895,Europe,Western Europe,Norway,2000
+2004,NO,0.309,0.2559,0.0894,Europe,Western Europe,Norway,2000
+2005,NO,0.3066,0.2579,0.0892,Europe,Western Europe,Norway,2000
+2006,NO,0.3042,0.2598,0.089,Europe,Western Europe,Norway,2000
+2007,NO,0.3041,0.2621,0.0875,Europe,Western Europe,Norway,2000
+2008,NO,0.3104,0.258,0.0869,Europe,Western Europe,Norway,2000
+2009,NO,0.3195,0.2396,0.0713,Europe,Western Europe,Norway,2000
+2010,NO,0.3105,0.2516,0.0789,Europe,Western Europe,Norway,2010
+2011,NO,0.3108,0.2475,0.0714,Europe,Western Europe,Norway,2010
+2012,NO,0.3097,0.2485,0.0728,Europe,Western Europe,Norway,2010
+2013,NO,0.3056,0.2542,0.0771,Europe,Western Europe,Norway,2010
+2014,NO,0.3101,0.2478,0.0719,Europe,Western Europe,Norway,2010
+2015,NO,0.3061,0.249,0.0683,Europe,Western Europe,Norway,2010
+2016,NO,0.3027,0.2501,0.0674,Europe,Western Europe,Norway,2010
+2017,NO,0.3028,0.2509,0.0692,Europe,Western Europe,Norway,2010
+2018,NO,0.301,0.254,0.0725,Europe,Western Europe,Norway,2010
+2019,NO,0.3108,0.2343,0.0553,Europe,Western Europe,Norway,2010
+2020,NO,0.3075,0.2409,0.0608,Europe,Western Europe,Norway,2020
+2021,NO,0.3077,0.2405,0.0604,Europe,Western Europe,Norway,2020
+1983,PL,0.3193,0.2039,0.0375,Europe,Eastern Europe,Poland,1980
+1984,PL,0.3155,0.2109,0.0426,Europe,Eastern Europe,Poland,1980
+1985,PL,0.3143,0.2076,0.038,Europe,Eastern Europe,Poland,1980
+1986,PL,0.2992,0.2133,0.0339,Europe,Eastern Europe,Poland,1980
+1987,PL,0.3074,0.205,0.0341,Europe,Eastern Europe,Poland,1980
+1988,PL,0.3103,0.2019,0.0325,Europe,Eastern Europe,Poland,1980
+1989,PL,0.3028,0.2126,0.0381,Europe,Eastern Europe,Poland,1980
+1990,PL,0.2842,0.2241,0.0434,Europe,Eastern Europe,Poland,1990
+1991,PL,0.2801,0.2437,0.0536,Europe,Eastern Europe,Poland,1990
+1992,PL,0.2776,0.2321,0.0543,Europe,Eastern Europe,Poland,1990
+1993,PL,0.278,0.2349,0.0533,Europe,Eastern Europe,Poland,1990
+1994,PL,0.2627,0.2557,0.069,Europe,Eastern Europe,Poland,1990
+1995,PL,0.2498,0.2827,0.0853,Europe,Eastern Europe,Poland,1990
+1996,PL,0.237,0.286,0.0777,Europe,Eastern Europe,Poland,1990
+1997,PL,0.2488,0.2799,0.0796,Europe,Eastern Europe,Poland,1990
+1998,PL,0.2482,0.2851,0.0812,Europe,Eastern Europe,Poland,1990
+1999,PL,0.247,0.2787,0.0847,Europe,Eastern Europe,Poland,1990
+2000,PL,0.2356,0.3027,0.0861,Europe,Eastern Europe,Poland,2000
+2001,PL,0.2292,0.3027,0.0881,Europe,Eastern Europe,Poland,2000
+2002,PL,0.2254,0.2996,0.0876,Europe,Eastern Europe,Poland,2000
+2003,PL,0.2132,0.3262,0.0834,Europe,Eastern Europe,Poland,2000
+2004,PL,0.2169,0.3091,0.0981,Europe,Eastern Europe,Poland,2000
+2005,PL,0.216,0.3151,0.0947,Europe,Eastern Europe,Poland,2000
+2006,PL,0.2166,0.3262,0.1076,Europe,Eastern Europe,Poland,2000
+2007,PL,0.2213,0.3292,0.1139,Europe,Eastern Europe,Poland,2000
+2008,PL,0.2167,0.3356,0.1166,Europe,Eastern Europe,Poland,2000
+2009,PL,0.2111,0.331,0.11,Europe,Eastern Europe,Poland,2000
+2010,PL,0.212,0.3335,0.1084,Europe,Eastern Europe,Poland,2010
+2011,PL,0.2124,0.3319,0.1069,Europe,Eastern Europe,Poland,2010
+2012,PL,0.2156,0.3278,0.1029,Europe,Eastern Europe,Poland,2010
+2013,PL,0.2155,0.3269,0.1039,Europe,Eastern Europe,Poland,2010
+2014,PL,0.212,0.3354,0.1107,Europe,Eastern Europe,Poland,2010
+2015,PL,0.2113,0.3367,0.1126,Europe,Eastern Europe,Poland,2010
+2016,PL,0.2215,0.327,0.1084,Europe,Eastern Europe,Poland,2010
+2017,PL,0.2304,0.3218,0.106,Europe,Eastern Europe,Poland,2010
+2018,PL,0.2239,0.3247,0.1069,Europe,Eastern Europe,Poland,2010
+2019,PL,0.2231,0.3263,0.1084,Europe,Eastern Europe,Poland,2010
+2020,PL,0.2212,0.3307,0.1119,Europe,Eastern Europe,Poland,2020
+2021,PL,0.2214,0.3302,0.1115,Europe,Eastern Europe,Poland,2020
+1980,PT,0.2598,0.2514,0.0551,Europe,Western Europe,Portugal,1980
+1981,PT,0.2674,0.247,0.049,Europe,Western Europe,Portugal,1980
+1982,PT,0.2443,0.2749,0.0507,Europe,Western Europe,Portugal,1980
+1983,PT,0.2425,0.276,0.0582,Europe,Western Europe,Portugal,1980
+1984,PT,0.2351,0.2852,0.059,Europe,Western Europe,Portugal,1980
+1985,PT,0.2348,0.287,0.0606,Europe,Western Europe,Portugal,1980
+1986,PT,0.2325,0.2904,0.0668,Europe,Western Europe,Portugal,1980
+1987,PT,0.2318,0.2932,0.068,Europe,Western Europe,Portugal,1980
+1988,PT,0.232,0.2961,0.0697,Europe,Western Europe,Portugal,1980
+1989,PT,0.2309,0.2987,0.0722,Europe,Western Europe,Portugal,1980
+1990,PT,0.2353,0.3026,0.0712,Europe,Western Europe,Portugal,1990
+1991,PT,0.2245,0.3111,0.0776,Europe,Western Europe,Portugal,1990
+1992,PT,0.2141,0.3183,0.0784,Europe,Western Europe,Portugal,1990
+1993,PT,0.1972,0.3377,0.0838,Europe,Western Europe,Portugal,1990
+1994,PT,0.1879,0.338,0.0853,Europe,Western Europe,Portugal,1990
+1995,PT,0.1894,0.3432,0.085,Europe,Western Europe,Portugal,1990
+1996,PT,0.1979,0.3359,0.0815,Europe,Western Europe,Portugal,1990
+1997,PT,0.1968,0.344,0.0848,Europe,Western Europe,Portugal,1990
+1998,PT,0.2059,0.3351,0.0797,Europe,Western Europe,Portugal,1990
+1999,PT,0.2024,0.3405,0.0847,Europe,Western Europe,Portugal,1990
+2000,PT,0.2057,0.3346,0.0779,Europe,Western Europe,Portugal,2000
+2001,PT,0.1892,0.3582,0.088,Europe,Western Europe,Portugal,2000
+2002,PT,0.1929,0.3509,0.0836,Europe,Western Europe,Portugal,2000
+2003,PT,0.1956,0.3461,0.0843,Europe,Western Europe,Portugal,2000
+2004,PT,0.1904,0.3587,0.0872,Europe,Western Europe,Portugal,2000
+2005,PT,0.1953,0.3521,0.0889,Europe,Western Europe,Portugal,2000
+2006,PT,0.1979,0.3521,0.0813,Europe,Western Europe,Portugal,2000
+2007,PT,0.2004,0.3544,0.0865,Europe,Western Europe,Portugal,2000
+2008,PT,0.2099,0.3419,0.0762,Europe,Western Europe,Portugal,2000
+2009,PT,0.2124,0.3372,0.0748,Europe,Western Europe,Portugal,2000
+2010,PT,0.209,0.3434,0.0789,Europe,Western Europe,Portugal,2010
+2011,PT,0.2092,0.3438,0.0875,Europe,Western Europe,Portugal,2010
+2012,PT,0.2125,0.3385,0.0842,Europe,Western Europe,Portugal,2010
+2013,PT,0.2082,0.3338,0.0813,Europe,Western Europe,Portugal,2010
+2014,PT,0.2067,0.3384,0.0894,Europe,Western Europe,Portugal,2010
+2015,PT,0.2105,0.3339,0.0869,Europe,Western Europe,Portugal,2010
+2016,PT,0.2152,0.3345,0.0876,Europe,Western Europe,Portugal,2010
+2017,PT,0.2171,0.3358,0.0906,Europe,Western Europe,Portugal,2010
+2018,PT,0.2248,0.324,0.085,Europe,Western Europe,Portugal,2010
+2019,PT,0.2259,0.3184,0.083,Europe,Western Europe,Portugal,2010
+2020,PT,0.2298,0.3077,0.0736,Europe,Western Europe,Portugal,2020
+2021,PT,0.2284,0.3124,0.0777,Europe,Western Europe,Portugal,2020
+1989,RO,0.2723,0.2036,0.0266,Europe,Eastern Europe,Romania,1980
+1990,RO,0.2819,0.2428,0.0358,Europe,Eastern Europe,Romania,1990
+1991,RO,0.2602,0.2292,0.0318,Europe,Eastern Europe,Romania,1990
+1992,RO,0.2447,0.192,0.0254,Europe,Eastern Europe,Romania,1990
+1993,RO,0.2377,0.2367,0.0333,Europe,Eastern Europe,Romania,1990
+1994,RO,0.2379,0.276,0.0404,Europe,Eastern Europe,Romania,1990
+1995,RO,0.1739,0.2871,0.0415,Europe,Eastern Europe,Romania,1990
+1996,RO,0.1635,0.2377,0.0318,Europe,Eastern Europe,Romania,1990
+1997,RO,0.1861,0.3313,0.0525,Europe,Eastern Europe,Romania,1990
+1998,RO,0.161,0.2526,0.0353,Europe,Eastern Europe,Romania,1990
+1999,RO,0.1647,0.22,0.0337,Europe,Eastern Europe,Romania,1990
+2000,RO,0.1662,0.2147,0.0316,Europe,Eastern Europe,Romania,2000
+2001,RO,0.1656,0.253,0.0341,Europe,Eastern Europe,Romania,2000
+2002,RO,0.153,0.2566,0.043,Europe,Eastern Europe,Romania,2000
+2003,RO,0.1491,0.2541,0.0567,Europe,Eastern Europe,Romania,2000
+2004,RO,0.1311,0.2636,0.0448,Europe,Eastern Europe,Romania,2000
+2005,RO,0.1454,0.2383,0.0439,Europe,Eastern Europe,Romania,2000
+2006,RO,0.1347,0.2802,0.0548,Europe,Eastern Europe,Romania,2000
+2007,RO,0.1278,0.3512,0.0883,Europe,Eastern Europe,Romania,2000
+2008,RO,0.1305,0.3673,0.1027,Europe,Eastern Europe,Romania,2000
+2009,RO,0.137,0.3775,0.1172,Europe,Eastern Europe,Romania,2000
+2010,RO,0.1573,0.3302,0.0778,Europe,Eastern Europe,Romania,2010
+2011,RO,0.1613,0.3401,0.0816,Europe,Eastern Europe,Romania,2010
+2012,RO,0.1503,0.3465,0.0935,Europe,Eastern Europe,Romania,2010
+2013,RO,0.1665,0.3026,0.0706,Europe,Eastern Europe,Romania,2010
+2014,RO,0.1481,0.3555,0.1035,Europe,Eastern Europe,Romania,2010
+2015,RO,0.1627,0.3315,0.0882,Europe,Eastern Europe,Romania,2010
+2016,RO,0.1678,0.3318,0.0809,Europe,Eastern Europe,Romania,2010
+2017,RO,0.1616,0.3236,0.0722,Europe,Eastern Europe,Romania,2010
+2018,RO,0.1507,0.3404,0.0786,Europe,Eastern Europe,Romania,2010
+2019,RO,0.1475,0.344,0.0841,Europe,Eastern Europe,Romania,2010
+2020,RO,0.1475,0.3438,0.0839,Europe,Eastern Europe,Romania,2020
+2021,RO,0.1476,0.3437,0.0838,Europe,Eastern Europe,Romania,2020
+1980,RS,0.2206,0.2918,0.0748,Europe,Eastern Europe,Serbia,1980
+1981,RS,0.2206,0.2918,0.0748,Europe,Eastern Europe,Serbia,1980
+1982,RS,0.2206,0.2918,0.0748,Europe,Eastern Europe,Serbia,1980
+1983,RS,0.2206,0.2918,0.0748,Europe,Eastern Europe,Serbia,1980
+1984,RS,0.2093,0.3116,0.0898,Europe,Eastern Europe,Serbia,1980
+1985,RS,0.2144,0.3062,0.0918,Europe,Eastern Europe,Serbia,1980
+1986,RS,0.213,0.2942,0.0851,Europe,Eastern Europe,Serbia,1980
+1987,RS,0.2054,0.3206,0.0805,Europe,Eastern Europe,Serbia,1980
+1988,RS,0.2067,0.3035,0.0968,Europe,Eastern Europe,Serbia,1980
+1989,RS,0.2167,0.291,0.089,Europe,Eastern Europe,Serbia,1980
+1990,RS,0.2171,0.2893,0.0927,Europe,Eastern Europe,Serbia,1990
+1991,RS,0.216,0.2938,0.0951,Europe,Eastern Europe,Serbia,1990
+1992,RS,0.2175,0.2968,0.0972,Europe,Eastern Europe,Serbia,1990
+1993,RS,0.2185,0.3003,0.0999,Europe,Eastern Europe,Serbia,1990
+1994,RS,0.219,0.3042,0.1029,Europe,Eastern Europe,Serbia,1990
+1995,RS,0.2191,0.3084,0.1062,Europe,Eastern Europe,Serbia,1990
+1996,RS,0.221,0.3078,0.1055,Europe,Eastern Europe,Serbia,1990
+1997,RS,0.2227,0.3075,0.1053,Europe,Eastern Europe,Serbia,1990
+1998,RS,0.2216,0.3126,0.1073,Europe,Eastern Europe,Serbia,1990
+1999,RS,0.2303,0.2979,0.0961,Europe,Eastern Europe,Serbia,1990
+2000,RS,0.1835,0.3751,0.1344,Europe,Eastern Europe,Serbia,2000
+2001,RS,0.2109,0.3431,0.1225,Europe,Eastern Europe,Serbia,2000
+2002,RS,0.1933,0.3549,0.1245,Europe,Eastern Europe,Serbia,2000
+2003,RS,0.1829,0.3589,0.1246,Europe,Eastern Europe,Serbia,2000
+2004,RS,0.1694,0.371,0.1262,Europe,Eastern Europe,Serbia,2000
+2005,RS,0.1626,0.3752,0.1271,Europe,Eastern Europe,Serbia,2000
+2006,RS,0.1479,0.389,0.121,Europe,Eastern Europe,Serbia,2000
+2007,RS,0.1522,0.3725,0.1141,Europe,Eastern Europe,Serbia,2000
+2008,RS,0.1525,0.3774,0.1188,Europe,Eastern Europe,Serbia,2000
+2009,RS,0.1566,0.3638,0.1257,Europe,Eastern Europe,Serbia,2000
+2010,RS,0.1578,0.3574,0.1023,Europe,Eastern Europe,Serbia,2010
+2011,RS,0.16,0.3537,0.1257,Europe,Eastern Europe,Serbia,2010
+2012,RS,0.1447,0.3863,0.1305,Europe,Eastern Europe,Serbia,2010
+2013,RS,0.144,0.3788,0.1273,Europe,Eastern Europe,Serbia,2010
+2014,RS,0.1319,0.4191,0.1686,Europe,Eastern Europe,Serbia,2010
+2015,RS,0.1259,0.4599,0.2273,Europe,Eastern Europe,Serbia,2010
+2016,RS,0.1332,0.4093,0.1574,Europe,Eastern Europe,Serbia,2010
+2017,RS,0.1568,0.356,0.116,Europe,Eastern Europe,Serbia,2010
+2018,RS,0.1763,0.3337,0.1008,Europe,Eastern Europe,Serbia,2010
+2019,RS,0.1807,0.3526,0.1199,Europe,Eastern Europe,Serbia,2010
+2020,RS,0.1781,0.3608,0.1266,Europe,Eastern Europe,Serbia,2020
+2021,RS,0.1783,0.36,0.126,Europe,Eastern Europe,Serbia,2020
+1980,SE,0.3285,0.2147,0.0624,Europe,Western Europe,Sweden,1980
+1981,SE,0.351,0.2033,0.0617,Europe,Western Europe,Sweden,1980
+1982,SE,0.3395,0.2196,0.0712,Europe,Western Europe,Sweden,1980
+1983,SE,0.3393,0.22,0.0733,Europe,Western Europe,Sweden,1980
+1984,SE,0.3347,0.2382,0.0887,Europe,Western Europe,Sweden,1980
+1985,SE,0.347,0.2334,0.0867,Europe,Western Europe,Sweden,1980
+1986,SE,0.3297,0.2326,0.0806,Europe,Western Europe,Sweden,1980
+1987,SE,0.3359,0.2355,0.0818,Europe,Western Europe,Sweden,1980
+1988,SE,0.331,0.2415,0.0862,Europe,Western Europe,Sweden,1980
+1989,SE,0.3233,0.2434,0.0871,Europe,Western Europe,Sweden,1980
+1990,SE,0.3338,0.2179,0.0675,Europe,Western Europe,Sweden,1990
+1991,SE,0.323,0.2241,0.0557,Europe,Western Europe,Sweden,1990
+1992,SE,0.3243,0.2274,0.0594,Europe,Western Europe,Sweden,1990
+1993,SE,0.3263,0.2278,0.0593,Europe,Western Europe,Sweden,1990
+1994,SE,0.2855,0.282,0.078,Europe,Western Europe,Sweden,1990
+1995,SE,0.2894,0.2727,0.094,Europe,Western Europe,Sweden,1990
+1996,SE,0.2918,0.2649,0.0884,Europe,Western Europe,Sweden,1990
+1997,SE,0.282,0.2805,0.0992,Europe,Western Europe,Sweden,1990
+1998,SE,0.2801,0.2806,0.0982,Europe,Western Europe,Sweden,1990
+1999,SE,0.2835,0.2786,0.0966,Europe,Western Europe,Sweden,1990
+2000,SE,0.3,0.2679,0.0856,Europe,Western Europe,Sweden,2000
+2001,SE,0.3085,0.2488,0.0742,Europe,Western Europe,Sweden,2000
+2002,SE,0.3348,0.2385,0.078,Europe,Western Europe,Sweden,2000
+2003,SE,0.3281,0.2489,0.0862,Europe,Western Europe,Sweden,2000
+2004,SE,0.3081,0.2674,0.0901,Europe,Western Europe,Sweden,2000
+2005,SE,0.2897,0.2722,0.0907,Europe,Western Europe,Sweden,2000
+2006,SE,0.2887,0.2814,0.1008,Europe,Western Europe,Sweden,2000
+2007,SE,0.2824,0.2767,0.0954,Europe,Western Europe,Sweden,2000
+2008,SE,0.2766,0.2716,0.0883,Europe,Western Europe,Sweden,2000
+2009,SE,0.2802,0.2578,0.0724,Europe,Western Europe,Sweden,2000
+2010,SE,0.2691,0.2654,0.0821,Europe,Western Europe,Sweden,2010
+2011,SE,0.2744,0.2615,0.0795,Europe,Western Europe,Sweden,2010
+2012,SE,0.2898,0.2501,0.0704,Europe,Western Europe,Sweden,2010
+2013,SE,0.29,0.251,0.0714,Europe,Western Europe,Sweden,2010
+2014,SE,0.2866,0.2521,0.0723,Europe,Western Europe,Sweden,2010
+2015,SE,0.2858,0.2551,0.0749,Europe,Western Europe,Sweden,2010
+2016,SE,0.2953,0.2375,0.0609,Europe,Western Europe,Sweden,2010
+2017,SE,0.2917,0.248,0.07,Europe,Western Europe,Sweden,2010
+2018,SE,0.2937,0.2397,0.0648,Europe,Western Europe,Sweden,2010
+2019,SE,0.2913,0.2476,0.0717,Europe,Western Europe,Sweden,2010
+2020,SE,0.2832,0.2653,0.0867,Europe,Western Europe,Sweden,2020
+2021,SE,0.2774,0.2769,0.0986,Europe,Western Europe,Sweden,2020
+2022,SE,0.2768,0.2783,0.0997,Europe,Western Europe,Sweden,2020
+1980,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1981,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1982,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1983,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1984,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1985,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1986,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1987,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1988,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1989,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1980
+1990,SI,0.3239,0.1925,0.033,Europe,Eastern Europe,Slovenia,1990
+1991,SI,0.3236,0.1932,0.0334,Europe,Eastern Europe,Slovenia,1990
+1992,SI,0.3095,0.2077,0.043,Europe,Eastern Europe,Slovenia,1990
+1993,SI,0.2831,0.2311,0.0466,Europe,Eastern Europe,Slovenia,1990
+1994,SI,0.2976,0.2309,0.0474,Europe,Eastern Europe,Slovenia,1990
+1995,SI,0.2816,0.2357,0.0489,Europe,Eastern Europe,Slovenia,1990
+1996,SI,0.2811,0.2417,0.0484,Europe,Eastern Europe,Slovenia,1990
+1997,SI,0.2796,0.2505,0.0492,Europe,Eastern Europe,Slovenia,1990
+1998,SI,0.2824,0.2384,0.0559,Europe,Eastern Europe,Slovenia,1990
+1999,SI,0.2759,0.2561,0.0608,Europe,Eastern Europe,Slovenia,1990
+2000,SI,0.282,0.2411,0.0526,Europe,Eastern Europe,Slovenia,2000
+2001,SI,0.2824,0.2417,0.0535,Europe,Eastern Europe,Slovenia,2000
+2002,SI,0.2795,0.244,0.052,Europe,Eastern Europe,Slovenia,2000
+2003,SI,0.2775,0.2502,0.0565,Europe,Eastern Europe,Slovenia,2000
+2004,SI,0.2733,0.2492,0.0542,Europe,Eastern Europe,Slovenia,2000
+2005,SI,0.2759,0.2452,0.0519,Europe,Eastern Europe,Slovenia,2000
+2006,SI,0.275,0.2478,0.0569,Europe,Eastern Europe,Slovenia,2000
+2007,SI,0.2752,0.2475,0.0555,Europe,Eastern Europe,Slovenia,2000
+2008,SI,0.2784,0.2475,0.0553,Europe,Eastern Europe,Slovenia,2000
+2009,SI,0.2802,0.2441,0.0521,Europe,Eastern Europe,Slovenia,2000
+2010,SI,0.2787,0.2446,0.0534,Europe,Eastern Europe,Slovenia,2010
+2011,SI,0.2822,0.24,0.0516,Europe,Eastern Europe,Slovenia,2010
+2012,SI,0.2772,0.2407,0.049,Europe,Eastern Europe,Slovenia,2010
+2013,SI,0.2732,0.2453,0.052,Europe,Eastern Europe,Slovenia,2010
+2014,SI,0.2686,0.2536,0.0597,Europe,Eastern Europe,Slovenia,2010
+2015,SI,0.2746,0.242,0.052,Europe,Eastern Europe,Slovenia,2010
+2016,SI,0.277,0.2442,0.0537,Europe,Eastern Europe,Slovenia,2010
+2017,SI,0.2803,0.2476,0.059,Europe,Eastern Europe,Slovenia,2010
+2018,SI,0.2844,0.2488,0.0598,Europe,Eastern Europe,Slovenia,2010
+2019,SI,0.2846,0.2484,0.0591,Europe,Eastern Europe,Slovenia,2010
+2020,SI,0.2826,0.2529,0.0633,Europe,Eastern Europe,Slovenia,2020
+2021,SI,0.2828,0.2525,0.0629,Europe,Eastern Europe,Slovenia,2020
+1980,SK,0.3122,0.2024,0.0331,Europe,Eastern Europe,Slovakia,1980
+1981,SK,0.3073,0.2006,0.0307,Europe,Eastern Europe,Slovakia,1980
+1982,SK,0.3279,0.1992,0.0322,Europe,Eastern Europe,Slovakia,1980
+1983,SK,0.3295,0.1987,0.0319,Europe,Eastern Europe,Slovakia,1980
+1984,SK,0.3311,0.1977,0.0318,Europe,Eastern Europe,Slovakia,1980
+1985,SK,0.3319,0.1971,0.0316,Europe,Eastern Europe,Slovakia,1980
+1986,SK,0.3319,0.1991,0.0332,Europe,Eastern Europe,Slovakia,1980
+1987,SK,0.3315,0.2022,0.0347,Europe,Eastern Europe,Slovakia,1980
+1988,SK,0.3315,0.2046,0.0363,Europe,Eastern Europe,Slovakia,1980
+1989,SK,0.3308,0.2061,0.0379,Europe,Eastern Europe,Slovakia,1980
+1990,SK,0.3278,0.208,0.0402,Europe,Eastern Europe,Slovakia,1990
+1991,SK,0.3099,0.2278,0.0521,Europe,Eastern Europe,Slovakia,1990
+1992,SK,0.3092,0.2168,0.0459,Europe,Eastern Europe,Slovakia,1990
+1993,SK,0.2813,0.2292,0.0511,Europe,Eastern Europe,Slovakia,1990
+1994,SK,0.264,0.2348,0.0508,Europe,Eastern Europe,Slovakia,1990
+1995,SK,0.2401,0.2464,0.0559,Europe,Eastern Europe,Slovakia,1990
+1996,SK,0.2537,0.2497,0.0585,Europe,Eastern Europe,Slovakia,1990
+1997,SK,0.27,0.2434,0.0572,Europe,Eastern Europe,Slovakia,1990
+1998,SK,0.2732,0.2439,0.0585,Europe,Eastern Europe,Slovakia,1990
+1999,SK,0.2754,0.2504,0.0618,Europe,Eastern Europe,Slovakia,1990
+2000,SK,0.2752,0.2509,0.0638,Europe,Eastern Europe,Slovakia,2000
+2001,SK,0.2695,0.2648,0.0716,Europe,Eastern Europe,Slovakia,2000
+2002,SK,0.2671,0.2665,0.0718,Europe,Eastern Europe,Slovakia,2000
+2003,SK,0.2664,0.2648,0.0722,Europe,Eastern Europe,Slovakia,2000
+2004,SK,0.2594,0.2747,0.0827,Europe,Eastern Europe,Slovakia,2000
+2005,SK,0.2608,0.2755,0.0803,Europe,Eastern Europe,Slovakia,2000
+2006,SK,0.2592,0.2834,0.0851,Europe,Eastern Europe,Slovakia,2000
+2007,SK,0.2606,0.2839,0.0839,Europe,Eastern Europe,Slovakia,2000
+2008,SK,0.2634,0.28,0.0796,Europe,Eastern Europe,Slovakia,2000
+2009,SK,0.2608,0.2742,0.0812,Europe,Eastern Europe,Slovakia,2000
+2010,SK,0.2491,0.2957,0.098,Europe,Eastern Europe,Slovakia,2010
+2011,SK,0.2498,0.2877,0.0862,Europe,Eastern Europe,Slovakia,2010
+2012,SK,0.2549,0.2814,0.086,Europe,Eastern Europe,Slovakia,2010
+2013,SK,0.256,0.3058,0.1053,Europe,Eastern Europe,Slovakia,2010
+2014,SK,0.2754,0.278,0.0891,Europe,Eastern Europe,Slovakia,2010
+2015,SK,0.2664,0.2928,0.0996,Europe,Eastern Europe,Slovakia,2010
+2016,SK,0.2797,0.2671,0.0758,Europe,Eastern Europe,Slovakia,2010
+2017,SK,0.2934,0.2442,0.0683,Europe,Eastern Europe,Slovakia,2010
+2018,SK,0.2825,0.2474,0.0635,Europe,Eastern Europe,Slovakia,2010
+2019,SK,0.2919,0.2373,0.0606,Europe,Eastern Europe,Slovakia,2010
+2020,SK,0.2951,0.23,0.0543,Europe,Eastern Europe,Slovakia,2020
+2021,SK,0.2948,0.2307,0.0549,Europe,Eastern Europe,Slovakia,2020
+1980,US,0.2544,0.2912,0.0834,Americas,North America,USA,1980
+1981,US,0.2492,0.3003,0.0898,Americas,North America,USA,1980
+1982,US,0.241,0.3053,0.0933,Americas,North America,USA,1980
+1983,US,0.2322,0.3141,0.0984,Americas,North America,USA,1980
+1984,US,0.2252,0.3274,0.1067,Americas,North America,USA,1980
+1985,US,0.2245,0.3284,0.1091,Americas,North America,USA,1980
+1986,US,0.221,0.3238,0.1031,Americas,North America,USA,1980
+1987,US,0.2202,0.3301,0.1138,Americas,North America,USA,1980
+1988,US,0.212,0.3512,0.1339,Americas,North America,USA,1980
+1989,US,0.2149,0.3459,0.1287,Americas,North America,USA,1980
+1990,US,0.2145,0.3452,0.1281,Americas,North America,USA,1990
+1991,US,0.2159,0.3379,0.1167,Americas,North America,USA,1990
+1992,US,0.2091,0.3475,0.1251,Americas,North America,USA,1990
+1993,US,0.2123,0.3414,0.1166,Americas,North America,USA,1990
+1994,US,0.2134,0.3401,0.1153,Americas,North America,USA,1990
+1995,US,0.2107,0.3457,0.1192,Americas,North America,USA,1990
+1996,US,0.2068,0.3537,0.1253,Americas,North America,USA,1990
+1997,US,0.2044,0.3592,0.1313,Americas,North America,USA,1990
+1998,US,0.2029,0.3608,0.1326,Americas,North America,USA,1990
+1999,US,0.1999,0.3641,0.1356,Americas,North America,USA,1990
+2000,US,0.1962,0.369,0.1405,Americas,North America,USA,2000
+2001,US,0.1985,0.3676,0.1397,Americas,North America,USA,2000
+2002,US,0.1987,0.368,0.1402,Americas,North America,USA,2000
+2003,US,0.1952,0.3716,0.1436,Americas,North America,USA,2000
+2004,US,0.1924,0.3772,0.1484,Americas,North America,USA,2000
+2005,US,0.1904,0.3837,0.1546,Americas,North America,USA,2000
+2006,US,0.1885,0.3879,0.1574,Americas,North America,USA,2000
+2007,US,0.1928,0.3806,0.1523,Americas,North America,USA,2000
+2008,US,0.1984,0.374,0.1486,Americas,North America,USA,2000
+2009,US,0.1938,0.3724,0.1443,Americas,North America,USA,2000
+2010,US,0.1937,0.3833,0.1557,Americas,North America,USA,2010
+2011,US,0.1907,0.3879,0.1581,Americas,North America,USA,2010
+2012,US,0.1822,0.4016,0.1694,Americas,North America,USA,2010
+2013,US,0.1854,0.3935,0.1585,Americas,North America,USA,2010
+2014,US,0.1824,0.3984,0.1621,Americas,North America,USA,2010
+2015,US,0.1836,0.3959,0.1596,Americas,North America,USA,2010
+2016,US,0.1811,0.3961,0.1592,Americas,North America,USA,2010
+2017,US,0.1838,0.397,0.161,Americas,North America,USA,2010
+2018,US,0.1802,0.4035,0.1655,Americas,North America,USA,2010
+2019,US,0.1832,0.4018,0.164,Americas,North America,USA,2010
