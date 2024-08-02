@@ -38,7 +38,7 @@ async function fetchAndTransform(
                 (d) =>
                     d.year >= startYear &&
                     variableNames.includes(d.percentile) &&
-                    d.variable === 'scaincj992'
+                    d.variable === 'sptincj992'
             )
         )
         .select('country', 'variable', 'value', 'year', 'percentile')
@@ -257,7 +257,6 @@ async function main() {
         'ST',
         'SU',
         'SV',
-        'SW',
         'SX',
         'SY',
         'SZ',
@@ -297,7 +296,7 @@ async function main() {
         'ZZ',
     ]
 
-    const variableNames = ['p99p100', 'p90p100', 'p0p50']
+    const variableNames = ['p99p100', 'p90p100', 'p0p10', 'p0p1', 'p0p50']
 
     const startYear = 1980
 

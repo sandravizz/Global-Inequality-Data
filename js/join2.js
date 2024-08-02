@@ -28,6 +28,8 @@ async function loading() {
         .select(
             'year',
             'country',
+            'p0p1',
+            'p0p10',
             'p0p50',
             'p90p100',
             'p99p100',
@@ -36,6 +38,8 @@ async function loading() {
             'shortname'
         )
         .rename({
+            p0p1: 'lowest_1',
+            p0p10: 'lowest_10',
             p0p50: 'lowest_50',
             p90p100: 'highst_10',
             p99p100: 'highst_1',
