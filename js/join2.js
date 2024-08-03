@@ -33,6 +33,7 @@ async function loading() {
             'p0p50',
             'p90p100',
             'p99p100',
+            'p999p100',
             'region',
             'region2',
             'shortname'
@@ -41,8 +42,9 @@ async function loading() {
             p0p1: 'lowest_1',
             p0p10: 'lowest_10',
             p0p50: 'lowest_50',
-            p90p100: 'highst_10',
-            p99p100: 'highst_1',
+            p90p100: 'highest_10',
+            p99p100: 'highest_1',
+            p999p100: 'highest_01',
         })
         .derive({ decade: (d) => Math.floor(d.year / 10) * 10 })
         .objects()

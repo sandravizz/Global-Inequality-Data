@@ -296,7 +296,14 @@ async function main() {
         'ZZ',
     ]
 
-    const variableNames = ['p99p100', 'p90p100', 'p0p10', 'p0p1', 'p0p50']
+    const variableNames = [
+        'p99.9p100',
+        'p99p100',
+        'p90p100',
+        'p0p10',
+        'p0p1',
+        'p0p50',
+    ]
 
     const startYear = 1980
 
