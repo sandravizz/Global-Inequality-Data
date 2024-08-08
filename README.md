@@ -26,7 +26,7 @@ In these scripts all individual country files are loaded in order to combine the
 Loading.js is focusing on the gini and corresponding variables, as well as analysing the differences pre and post taxes.
 The correponding code can be found [here](js/loading.js) and the final data [here](js/output_data/loading.js).
 Loading2.js is focusing on income shares by population percentile, in particular the top 10% vs. the buttom 50%.
-The correponding code can be found [here](js/tidy_data.csv) and the final data [here](js/output_data/tidy_data2.csv)
+The correponding code can be found [here](js/output_data/tidy_data.csv) and the final data [here](js/output_data/tidy_data2.csv)
 
 ## Join.js
 
