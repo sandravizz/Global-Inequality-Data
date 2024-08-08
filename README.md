@@ -38,6 +38,6 @@ The correponding code files can be found [here](js/join.js) and here and [here](
 In this script I do the necessaries steps to create the final dataset including only the variables I need in this case for the starting and end date 1980 vs 2022.
 The correponding code files can be found [here](js/wrangeling.js) and here and [here](js/wrangeling2.js) the final data [here](js/output_data/gini_1980_2022.csv) and [here](js/output_data/share_1980_2022.csv).
 
-Made with :green_heart: by && [Sandraviz](https://www.sandraviz.com/bio) and support form [Patrick](https://www.linkedin.com/in/patrickwojda/) and [Austin](https://github.com/thataustin?tab=overview&from=2024-06-01&to=2024-06-12).
+Made with :green_heart: by [Sandraviz](https://www.sandraviz.com/bio) and some support form [Patrick](https://www.linkedin.com/in/patrickwojda/) and [Austin](https://github.com/thataustin?tab=overview&from=2024-06-01&to=2024-06-12).
 
 Follow me: [twitter](https://twitter.com/SandraCrypto), [linkedin](https://www.linkedin.com/in/sandradataviz/) and [observable](https://observablehq.com/@sandraviz)
