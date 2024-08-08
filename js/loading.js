@@ -319,7 +319,7 @@ async function main() {
     const csvData = d3.csvFormat(tidyData)
 
     // Write CSV data to file
-    const outputPath = path.resolve(__dirname, './tidy_data.csv')
+    const outputPath = path.resolve(__dirname, './output_data/tidy_data.csv')
     fs.ensureDirSync(path.dirname(outputPath))
     fs.writeFileSync(outputPath, csvData, 'utf8')
 

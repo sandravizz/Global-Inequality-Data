@@ -7,7 +7,7 @@ async function proceesing() {
     console.log('---> start processing5')
 
     const data_all = await aq.load(
-        `../js/data_all.csv`,
+        `../js/output_data/data_all.csv`,
         { delimiter: ',' },
         { using: aq.fromCSV }
     )
@@ -25,7 +25,10 @@ async function proceesing() {
     const csvData = d3.csvFormat(gini_1980_2022)
 
     // Write CSV data to file
-    const outputPath = path.resolve(__dirname, './gini_1980_2022.csv')
+    const outputPath = path.resolve(
+        __dirname,
+        './output_data/gini_1980_2022.csv'
+    )
     fs.ensureDirSync(path.dirname(outputPath))
     fs.writeFileSync(outputPath, csvData, 'utf8')
 

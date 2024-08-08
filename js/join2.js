@@ -8,7 +8,7 @@ async function loading() {
 
     //Loading data
     const data = await aq.load(
-        `../js/tidy_data2.csv`,
+        `../js/output_data/tidy_data2.csv`,
         { delimiter: ',' },
         { using: aq.fromCSV }
     )
@@ -54,7 +54,7 @@ async function loading() {
     console.log(csvData2)
 
     //Write CSV data to file
-    const outputPath = path.resolve(__dirname, './data_all2.csv')
+    const outputPath = path.resolve(__dirname, './output_data/data_all2.csv')
     fs.ensureDirSync(path.dirname(outputPath))
     fs.writeFileSync(outputPath, csvData2, 'utf8')
 
