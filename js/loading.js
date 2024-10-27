@@ -292,6 +292,12 @@ async function main() {
         'ZM',
         'ZW',
         'ZZ',
+        'WO',
+        'QB',
+        'QC',
+        'QE',
+        'QF',
+        'QD',
     ]
 
     const variableNames = [
