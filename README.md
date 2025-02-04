@@ -16,7 +16,7 @@ In order to invesitgate about this preceived development Patrick and I decided t
 
 ## Data
 
-The data on economic inequality was sourced from the [World Inequality Database (WID)](https://wid.world/)
+The data on economic inequality was sourced from the [World Inequality Database (WID)](https://wid.world/). Click on download full dataset.
 
 We use mainyly the js library [arquero](https://www.npmjs.com/package/arquero) to load, join and transform data. The objective of this project is to investigate the reasons and consequences of a rising global inequality.
 

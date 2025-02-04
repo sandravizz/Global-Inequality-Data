@@ -13,9 +13,9 @@ async function loadData(countryAbbreviation) {
         const fileContent = await fs.readFile(filePath, 'utf8')
         return await aq.load(filePath, { delimiter: ';' })
     } catch (error) {
-        // console.log(
-        //     `File for country ${countryAbbreviation} does not exist or failed to load.`
-        // )
+        console.log(
+            `File for country ${countryAbbreviation} does not exist or failed to load.`
+        )
         return null
     }
 }

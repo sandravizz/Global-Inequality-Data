@@ -62,7 +62,7 @@ async function fetchAndTransform(
 }
 async function main() {
     const countryNames = [
-      'AD',
+        'AD',
         'AE',
         'AF',
         'AG',
