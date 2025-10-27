@@ -6,7 +6,7 @@ Please find the introduction repository [here](https://github.com/sandravizz/Int
 
 Please find the EDA that uses the output data files from this repository in this [notebook](https://observablehq.com/@sandraviz/global-inequality) and this [notebook](https://observablehq.com/d/b8a01ac60f823d87).
 
-The project is split into two Github repository. This one is called "Global inequality" is used for data loading and warngling. The output is the input for the second one repository called gini, which is used for the web-page and visualisations unsing svelte, layercake and d3.js.
+The project is split into two Github repository. This one is called "Global-inequality-data" is used for data loading and warngling. The output is the input for the second one repository called "Global-inequality-story", which is used for the webpage and visualisations unsing svelte, layercake and d3.js.
 
 ## Background
 
@@ -43,6 +43,6 @@ The correponding code files can be found [here](js/wrangeling.js) and here and [
 
 Made with :green_heart: by [Sandraviz](https://www.sandraviz.com/bio)
 
-I am available for freelance data visualization work. Please [contact me](https://www.upwork.com/freelancers/~01385aaac85d3fbba5) in case you would like me to help you with my experience and expertise or [connect](https://www.linkedin.com/in/sandradataviz/) with me.
+I am available for freelance data visualization work. Please [contact me](https://www.sandraviz.com/contact) in case you would like me to help you with my experience and expertise or [connect](https://www.linkedin.com/in/sandradataviz/) with me.
 
 Credits to [Patrick](https://www.linkedin.com/in/patrickwojda/) and [Austin](https://github.com/thataustin?tab=overview&from=2024-06-01&to=2024-06-12) for help.

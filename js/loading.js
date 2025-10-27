@@ -59,7 +59,7 @@ async function fetchAndTransform(
 }
 async function main() {
     const countryNames = [
-        'AD',
+        'AD',      
         'AE',
         'AF',
         'AG',
@@ -195,7 +195,6 @@ async function main() {
         'MG',
         'MK',
         'ML',
-        'MP',
         'MM',
         'MN',
         'MO',
@@ -216,7 +215,7 @@ async function main() {
         'NL',
         'NO',
         'NP',
-        'NZ',
+        'NZ',      
         'OM',
         'PA',
         'PE',
@@ -254,7 +253,6 @@ async function main() {
         'ST',
         'SU',
         'SV',
-        'SW',
         'SX',
         'SY',
         'SZ',
@@ -301,9 +299,9 @@ async function main() {
     ]
 
     const variableNames = [
-        'rdiincj992',
-        'rptincj992',
-        'gdiincj992',
+        // 'rdiincj992',
+        // 'rptincj992',
+        // 'gdiincj992',
         'gptincj992',
     ]
 

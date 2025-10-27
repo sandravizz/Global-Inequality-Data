@@ -28,19 +28,19 @@ async function loading() {
         .select(
             'year',
             'country',
-            'gdiincj992',
+            // 'gdiincj992',
             'gptincj992',
-            'rdiincj992',
-            'rptincj992',
+            // 'rdiincj992',
+            // 'rptincj992',
             'region',
             'region2',
             'shortname'
         )
         .rename({
             gptincj992: 'gini_pretaxes',
-            gdiincj992: 'gini_posttaxes',
-            rdiincj992: 'ratio1050_posttaxes',
-            rptincj992: 'ratio1050_pertaxes',
+            // gdiincj992: 'gini_posttaxes',
+            // rdiincj992: 'ratio1050_posttaxes',
+            // rptincj992: 'ratio1050_pertaxes',
         })
         .derive({ decade: (d) => Math.floor(d.year / 10) * 10 })
         .objects()
