@@ -5,7 +5,15 @@
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "pipeline:gini": "node --expose-gc js/loading.js && node js/join.js && node js/wrangeling.js",
+        "pipeline:shares": "node --expose-gc js/loading2.js && node js/join2.js && node js/wrangeling2.js",
+        "pipeline:all": "npm run pipeline:gini && npm run pipeline:shares",
+        "load:gini": "node --expose-gc js/loading.js",
+        "load:shares": "node --expose-gc js/loading2.js",
+        "join:gini": "node js/join.js",
+        "join:shares": "node js/join2.js",
+        "wrangle:gini": "node js/wrangeling.js",
+        "wrangle:shares": "node js/wrangeling2.js"
     },
     "author": "",
     "license": "ISC",
