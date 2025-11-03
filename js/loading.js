@@ -10,7 +10,6 @@ async function loadData(countryAbbreviation) {
     )
 
     try {
-        const fileContent = await fs.readFile(filePath, 'utf8')
         return await aq.load(filePath, { delimiter: ';' })
     } catch (error) {
         console.log(
@@ -57,6 +56,40 @@ async function fetchAndTransform(
 
     return result
 }
+
+async function processBatch(countries, variableNames, startYear, batchSize = 20) {
+    const allResults = []
+    
+    for (let i = 0; i < countries.length; i += batchSize) {
+        const batch = countries.slice(i, i + batchSize)
+        console.log(
+            `Processing batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(
+                countries.length / batchSize
+            )} (countries ${i + 1}-${Math.min(i + batchSize, countries.length)})`
+        )
+        
+        const promises = batch.map((countryAbbreviation) =>
+            fetchAndTransform(countryAbbreviation, variableNames, startYear)
+        )
+        
+        const batchResults = await Promise.all(promises)
+        
+        // Flatten and add to results immediately
+        const batchData = batchResults
+            .flatMap((countryData) => countryData)
+            .filter(Boolean)
+        
+        allResults.push(...batchData)
+        
+        // Force garbage collection hint (memory release)
+        if (global.gc) {
+            global.gc()
+        }
+    }
+    
+    return allResults
+}
+
 async function main() {
     const countryNames = [
         'AD',      
@@ -307,17 +340,11 @@ async function main() {
 
     const startYear = 1980
 
-    const promises = countryNames.map((countryAbbreviation) =>
-        fetchAndTransform(countryAbbreviation, variableNames, startYear)
-    )
+    // Use batch processing to prevent memory leaks
+    console.log(`Processing ${countryNames.length} countries in batches...`)
+    const tidyData = await processBatch(countryNames, variableNames, startYear, 20)
 
-    const results = await Promise.all(promises)
-
-    const tidyData = results
-        .flatMap((countryData) => countryData)
-        .filter(Boolean)
-
-    console.log('Tidy Data:', tidyData)
+    console.log(`Tidy Data: ${tidyData.length} rows`)
 
     // Convert tidyData to CSV format
     const csvData = d3.csvFormat(tidyData)

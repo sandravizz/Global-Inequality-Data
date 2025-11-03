@@ -20,6 +20,14 @@ The data on economic inequality was sourced from the [World Inequality Database 
 
 We use mainyly the js library [arquero](https://www.npmjs.com/package/arquero) to load, join and transform data. The objective of this project is to investigate the reasons and consequences of a rising global inequality.
 
+## Setup
+
+Install dependencies:
+
+```bash
+npm install
+```
+
 ## Loading.js
 
 In these scripts all individual country files are loaded in order to combine them with the option to select different timeframes as well as variables.
@@ -29,15 +37,46 @@ The correponding code can be found [here](js/loading.js) and the final data [her
 Loading2.js is focusing on income shares by population percentile, in particular the top 10% vs. the buttom 50%.
 The correponding code can be found [here](js/output_data/tidy_data.csv) and the final data [here](js/output_data/tidy_data2.csv)
 
+**Run loading scripts:**
+
+```bash
+npm run load:gini      # Load Gini data → tidy_data.csv
+npm run load:shares    # Load income share data → tidy_data2.csv
+```
+
 ## Join.js
 
 In this script I join the complete file (output from the two loading scripts) in order to join it with WID_countries.csv to add importat information about the countries.
 The correponding code files can be found [here](js/join.js) and here and [here](js/join2.js) the final data [here](js/output_data/data_all.csv) and [here](js/output_data/data_all2.csv).
 
+**Run join scripts:**
+
+```bash
+npm run join:gini      # Join Gini data with country metadata → data_all.csv
+npm run join:shares    # Join share data with country metadata → data_all2.csv
+```
+
 ## Wrangeling.js
 
 In this script I do the necessaries steps to create the final dataset including only the variables I need in this case for the starting and end date 1980 vs 2022.
 The correponding code files can be found [here](js/wrangeling.js) and here and [here](js/wrangeling2.js) the final data [here](js/output_data/gini_1980_2022.csv) and [here](js/output_data/share_1980_2022.csv).
+
+**Run wrangling scripts:**
+
+```bash
+npm run wrangle:gini      # Create 1980 vs 2022 comparison → gini_1980_2022.csv
+npm run wrangle:shares    # Create 1980 vs 2022 comparison → share_1980_2022.csv
+```
+
+## Complete Pipelines
+
+Run the entire data processing pipeline from start to finish:
+
+```bash
+npm run pipeline:all       # Run both Gini and Shares pipelines
+npm run pipeline:gini      # Run Gini pipeline only → gini_1980_2022.csv
+npm run pipeline:shares    # Run Shares pipeline only → share_1980_2022.csv
+```
 
 ---
 
