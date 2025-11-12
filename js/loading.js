@@ -332,9 +332,9 @@ async function main() {
     ]
 
     const variableNames = [
-        // 'rdiincj992',
-        // 'rptincj992',
-        // 'gdiincj992',
+        'rdiincj992',
+        'rptincj992',
+        'gdiincj992',
         'gptincj992',
     ]
 
